@@ -1,0 +1,264 @@
+.rtwbmal_general_content.rtwbmal_show h3 {
+	padding-left: 10px;
+}
+.rtwbmal_setting_right h3 {
+	padding-left: 10px;
+}
+.rtwbmal_setting_wrapper{
+	width: 100%;
+}
+.rtwbmal_input_fields  select,
+.rtwbmal_input_fields  input[type="text"],
+.rtwbmal_input_fields  input[type="number"],
+.rtwbmal_input_fields  input[type="password"]{
+	padding: 10px;
+	height: auto;
+	width: 100%;
+}
+
+.error{
+	border-color: red !important;
+	color: red  !important;;
+}
+.rtwbmal_couponments {
+	display: flex;
+	flex-wrap: wrap;
+	flex: 0 0 100%;
+	overflow-y: auto;
+}
+.rtwbmal_button.rtwbmal_add_new_coupon{
+	margin-top: 20px;
+}
+.rtwbmal_couponments_header_in {
+ 	display: flex;
+ 	align-items: center;
+	 flex-wrap: wrap;
+}
+.rtwbmal_couponments_header_in > span {
+	padding-right: 10px;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.rtwbmal_filter_fields_wrap {
+	display: flex;
+	align-items: center;
+}
+.rtwbmal_filter_fields_search {
+	width: 6%;
+}
+.rtwbmal_filter_fields{
+	max-width: 13%;
+    width: 100%;
+    margin-right: 1%;
+}
+.rtwbmal_filter_fields  label{
+	margin-bottom: 5px;
+	display: block;
+	font-weight: 600;
+}
+.rtwbmal_filter_fields_wrap:after {
+    clear: both;
+    display: block;
+    content: "";
+}
+.rtwbmal_filter_fields .select2-container--default .select2-selection--single {
+    border-color: #eeeeee;
+    height: 40px;
+}
+.rtwbmal_filter_fields .select2-container--default .select2-selection--single .select2-selection__arrow{
+	top: 8px;
+}
+.rtwbmal_filter_fields .select2-container--default .select2-selection--single .select2-selection__rendered{
+	line-height: 37px;
+}
+.rtwbmal_filter_fields .select2.select2-container,
+.rtwbmal_filter_fields_wrap{
+	width: 100% !important;
+}
+.rtwbmal_filter_fields .select2.select2-container{
+	margin: 0;
+}
+.rtwbmal_couponment_date,
+.rtwbmal_coupon_date{
+	width: 13%;
+}
+.rtwbmal_couponment_code,
+.rtwbmal_couponment_dis_type,
+.rtwbmal_couponment_start_date,
+.rtwbmal_couponment_usage_limit,
+.rtwbmal_couponment_start_date,
+.rtwbmal_couponment_end_date{
+	width: 10%;
+}
+.rtwbmal_couponment_value{
+	width: 6%;
+}
+.rtwbmal_couponment_category,
+.rtwbmal_couponment_service,
+.rtwbmal_couponment_staff {
+	width: 13%;
+}
+.rtwbmal_couponments_header {
+	 margin-top: 20px;
+	 width: 100%;
+}
+.rtwbmal_couponments_list {
+	display: block;
+	width: 100%;
+}
+.rtwbmal_couponments_list .rtwbmal_single_couponment {
+	border: 1px solid #dddddd;
+	padding: 18px 10px;
+	position: relative;
+	margin-bottom: 10px;
+	font-size: 14px;
+	box-shadow: 0 2px 3px rgba(0,0,0,.1),0 0 15px rgba(0,0,0,.07);
+	-webkit-box-shadow: 0 2px 3px rgba(0,0,0,.1),0 0 15px rgba(0,0,0,.07);
+	-moz-box-shadow: 0 2px 3px rgba(0,0,0,.1),0 0 15px rgba(0,0,0,.07);
+}
+.rtwbmal_coupon_img {
+	width: 40px;
+	position: absolute;
+	left: 15px;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.rtwbmal_coupon_name_add_emp {
+	display: flex;
+	width: 100%;
+	/* flex-wrap: wrap; */
+	position: relative;
+}
+.rtwbmal_coupon_edit_del {
+	position: absolute;
+	right: -10px;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.rtwbmal_coupon_name_add_emp > div {
+	text-align: left;
+	padding-right: 10px;
+	word-wrap: break-word;
+}
+.rtwbmal_coupon_edit_del ul {
+	display: flex;
+	margin: 0;
+	justify-content: right;
+}
+.rtwbmal_coupon_edit_del ul li {
+	margin: 0 4px;
+}
+.rtwbmal_coupon_edit_del ul li a {
+	color: #777777;
+	cursor: pointer;
+}
+.rtwbmal_coupon_day_separator {
+	background-color: #f2d8b9;
+	margin: -20px -8px 8px -8px;
+}
+.rtwbmal_coupon_date_holder {
+	background-color: #2a1a5e;
+	display: inline-block;
+	color: #fff;
+	padding: 2px 9px;
+	font-weight: 500;
+	font-size: 13px;
+	display: inline-block;
+}
+.rtwbmal_coupon_status-tab {
+	border: 1px solid #30b893;
+	color: #30b893;
+	padding: 6px 15px;
+	border-radius: 3px;
+	font-weight: 500;
+}
+.rtwbmal_coupon_status-tab i {
+	font-size: 18px;
+	vertical-align: text-bottom;
+	display: inline-block;
+}
+.rtwbmal_coupon_status-tab.pending{
+	border-color: #f2a541;
+	color: #f2a541;
+}
+.rtwbmal_coupon_status-tab.cancelled{
+	color: #e33c3c;
+	border-color: #e33c3c;
+}
+.rtwbmal_coupon_status-tab.rejected{
+	color: #e33c3c;
+	border-color: #e33c3c;
+}
+.rtwbmal_next_prev button {
+	width: 27px;
+	height: 27px;
+	padding: 0;
+	background-color: #ffffff;
+	border: 1px solid #eeeeee;
+	border-radius: 50%;
+	margin-right: 7px;
+	color: #888888;
+	font-weight: 500;
+	cursor: pointer;
+}
+#notificationrtw {
+	position: relative;
+	width: 100%;
+	left: 0;
+	top: 0;
+	z-index: 100000;
+}
+#notificationrtw span {
+	text-align: center;
+	position: relative;
+	margin: 0;
+	padding: 5px;
+	padding-left: 10px;
+	border-bottom: 2px solid;
+}
+.rtwbmal_popup_body {
+	height:	 400px;
+}
+.rtwbmal_coupon_settings{
+	float: left;
+	margin-right: 20px;
+}
+.rtwbmal_cancel{
+	float: left;
+	background-color: #ef9434;
+}
+.rtwbmal_select ~ .select2.select2-container, .rtwbmal_popup_upload_image_wrapper{
+	width: 100%!important;
+}
+.rwbma-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -10px;
+	margin-right: -10px;
+	align-items: center;
+}
+.rwbma-col-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 15px;
+}
+.rtwbmal_input_fields label {
+    margin-bottom: 5px;
+	display: block;
+	cursor: text;
+}
+.rtwbmal_input_fields .rwbma-custom-checkbox-label {
+    display: inline-block;
+    vertical-align: baseline;
+}
+.rtwbmal_error_message{
+	color: red;
+}
+@media screen and (max-width: 767px){
+	.rwbma-col-6 {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+}

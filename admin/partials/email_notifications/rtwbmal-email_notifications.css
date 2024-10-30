@@ -1,0 +1,149 @@
+.rtwbmal_mail_codes{
+	max-height: 300px;
+	overflow: auto;
+}
+.error{
+	border-color: red !important;
+	color: red  !important;
+}
+.rtwbmal_noti {
+	flex: 0 0 100%;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+.rtwbmal_noti_header_in {
+ 	display: flex;
+ 	align-items: center;
+ 	padding-left: 15px;
+ 	padding-right: 15px;
+}
+.rtwbmal_noti_header_in > span {
+	width: 33.333%;
+	padding-right: 10px;
+	font-weight: 600;
+	letter-spacing: 1px;
+}
+.rtwbmal_noti_header {
+ 	background-color: #eeeeee;
+ 	padding: 20px 10px;
+	margin-top: 15px;
+	box-shadow: 0 2px 3px rgba(0,0,0,.1),0 0 15px rgba(0,0,0,.07);
+	-webkit-box-shadow: 0 2px 3px rgba(0,0,0,.1),0 0 15px rgba(0,0,0,.07);
+	-moz-box-shadow: 0 2px 3px rgba(0,0,0,.1),0 0 15px rgba(0,0,0,.07);
+	-ms-box-shadow: 0 2px 3px rgba(0,0,0,.1),0 0 15px rgba(0,0,0,.07);
+	-o-box-shadow: 0 2px 3px rgba(0,0,0,.1),0 0 15px rgba(0,0,0,.07);
+	 
+}
+.rtwbmal_noti_list .rtwbmal_single_noti {
+	display: flex;
+	justify-content: center;
+	border: 1px solid #dddddd;
+	padding: 18px 8px;
+	align-items: center;
+	position: relative;
+	margin-bottom: 10px;
+	font-size: 14px;
+	box-shadow: 0 2px 3px rgba(0,0,0,.1),0 0 15px rgba(0,0,0,.07);
+	-webkit-box-shadow: 0 2px 3px rgba(0,0,0,.1),0 0 15px rgba(0,0,0,.07);
+	-moz-box-shadow: 0 2px 3px rgba(0,0,0,.1),0 0 15px rgba(0,0,0,.07);
+	-ms-box-shadow: 0 2px 3px rgba(0,0,0,.1),0 0 15px rgba(0,0,0,.07);
+	-o-box-shadow: 0 2px 3px rgba(0,0,0,.1),0 0 15px rgba(0,0,0,.07);
+}
+.rtwbmal_noti_img {
+	width: 40px;
+	position: absolute;
+	left: 15px;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.rtwbmal_noti_name_add_noti {
+	display: flex;
+	width: 100%;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.rtwbmal_noti_edit_del {
+	position: absolute;
+	right: 15px;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.rtwbmal_noti_name_add_noti > div {
+	width: 33.333%;
+	text-align: left;
+	padding-right: 10px;
+}
+.rtwbmal_noti_edit_del ul {
+	display: flex;
+	margin: 0;
+}
+.rtwbmal_noti_edit_del ul li {
+	margin: 0 4px;
+}
+.rtwbmal_noti_edit_del ul li a {
+	color: #777777;
+}
+.rtwbmal_selected {
+	border: none;
+}
+.rtwbmal_shortcode_table td{
+	padding: 0;
+}
+.rtwbmal_popup_body {
+    height: 350px;
+}
+.rtwbmal_wp_wditor .rtwbmal_input {
+	margin-top: 15px;
+}
+.rtwbmal_shortcode_table{
+	width: 100%;
+}
+.rtwbmal_shortcode_table td input {
+	padding: 5px;
+	display: inline-block;
+}
+.rtwbmal_pro_text{
+	width: 100%;
+}
+.rtwbmal_noti_list .rtwbmal_single_noti {
+	display: flex;
+	justify-content: center;
+	border: 1px solid #dddddd;
+	padding: 18px 8px;
+	align-items: center;
+	position: relative;
+	margin-bottom: 10px;
+	font-size: 14px;
+	box-shadow: 0 2px 3px rgba(0,0,0,.1),0 0 15px rgba(0,0,0,.07);
+	-webkit-box-shadow: 0 2px 3px rgba(0,0,0,.1),0 0 15px rgba(0,0,0,.07);
+	-moz-box-shadow: 0 2px 3px rgba(0,0,0,.1),0 0 15px rgba(0,0,0,.07);
+	-ms-box-shadow: 0 2px 3px rgba(0,0,0,.1),0 0 15px rgba(0,0,0,.07);
+	-o-box-shadow: 0 2px 3px rgba(0,0,0,.1),0 0 15px rgba(0,0,0,.07);
+}
+.rtwbmal_noti_name_add_noti {
+	display: flex;
+	width: 100%;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.rtwbmal_noti_name_add_noti > div {
+	width: 33.333%;
+	text-align: left;
+	padding-right: 10px;
+}
+.rtwbmal_noti_edit_del ul {
+	display: flex;
+	margin: 0;
+}
+.rtwbmal_noti_edit_del ul li {
+	margin: 0 4px;
+}
+.rtwbmal_noti_edit_del ul li a {
+	color: #777777;
+}
+.rtwbmal_noti_edit_del {
+	position: absolute;
+	right: 15px;
+	top: 50%;
+	transform: translateY(-50%);
+}

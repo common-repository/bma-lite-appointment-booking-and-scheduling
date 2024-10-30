@@ -1,0 +1,30 @@
+.rtwbmal_general_content.rtwbmal_show h3 {
+	padding-left: 10px;
+}
+.rtwbmal_setting_right h3 {
+	padding-left: 10px;
+}
+.rtwbmal_input_fields table{
+	border-collapse: collapse;
+}
+.rtwbmal_input_fields table,
+.rtwbmal_setting_wrapper{
+	width: 100%;
+}
+.rtwbmal_input_fields table td, .rtwbmal_input_fields table  th {
+	padding: 10px;
+}
+.rtwbmal_input_fields table td select,
+.rtwbmal_input_fields table td input[type="text"],
+.rtwbmal_input_fields table td input[type="number"],
+.rtwbmal_input_fields table td input[type="password"]{
+	padding: 10px;
+	height: auto;
+	width: 100%;
+}
+.rtwbmal_input_fields tr td:first-child {
+    width: 350px;
+}
+.rtwbmal_general_content.rtwbmal_show:nth-child(2) {
+	border-top: 2px solid #dddddd;
+}

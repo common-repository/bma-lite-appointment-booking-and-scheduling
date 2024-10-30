@@ -1,0 +1,37 @@
+.rtwbmal_log {
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    padding: 5px 20px;
+}
+
+.rtwbmal_log pre {
+    font-family: monospace;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+.rtwbmal_clear_logs {
+  font-weight: bold;
+  background-color: white; /* Green */
+  border: none;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.rtwbmal_clear_logs {
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.rtwbmal_clear_logs:hover {
+  background-color: white; /* Green */
+  color: black;
+}
+.rtwbmal_clear_logs:hover {background-color: #e7e7e7;}

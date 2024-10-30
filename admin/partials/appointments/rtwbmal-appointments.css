@@ -1,0 +1,205 @@
+.error{
+	border-color: red !important;
+	color: red  !important;;
+}
+.rtwbmal_appointments {
+	display: flex;
+	flex-wrap: wrap;
+	flex: 0 0 100%;
+	margin-left: 2%;
+	margin-right: 2%;
+	overflow-y: auto;
+}
+.rtwbmal_appointments_header_in {
+ 	display: flex;
+ 	align-items: center;
+	 flex-wrap: wrap;
+}
+.rtwbmal_appointments_header_in > span {
+	padding-right: 10px;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.rtwbmal_filter_fields_wrap {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.rtwbmal_filter_fields_search {
+	width: 6%;
+}
+.rtwbmal_filter_fields{
+	max-width: 13%;
+    width: 100%;
+    margin-right: 1%;
+}
+.rtwbmal_filter_fields  label{
+	margin-bottom: 5px;
+	display: block;
+	font-weight: 600;
+}
+.rtwbmal_filter_fields_wrap:after {
+    clear: both;
+    display: block;
+    content: "";
+}
+.rtwbmal_filter_fields .select2-container--default .select2-selection--single {
+    border-color: #eeeeee;
+    height: 40px;
+}
+.rtwbmal_filter_fields .select2-container--default .select2-selection--single .select2-selection__arrow{
+	top: 8px;
+}
+.rtwbmal_filter_fields .select2-container--default .select2-selection--single .select2-selection__rendered{
+	line-height: 37px;
+}
+.rtwbmal_filter_fields .select2.select2-container,
+.rtwbmal_filter_fields_wrap{
+	width: 100% !important;
+}
+.rtwbmal_filter_fields .select2.select2-container{
+	margin: 0;
+}
+.rtwbmal_appointment_date,
+.rtwbmal_appoint_date{
+	width: 10%;
+}
+.rtwbmal_appointment_emp,
+.rtwbmal_appoint_emp,
+.rtwbmal_appointment_serv,
+.rtwbmal_appoint_service,
+.rtwbmal_appointment_cust_name,
+.rtwbmal_appoint_cust_name,
+.rtwbmal_appointment_status,
+.rtwbmal_appoint_status{
+	width: 16%;
+}
+.rtwbmal_appointment_price,
+.rtwbmal_appoint_price,
+.rtwbmal_appointment_duration,
+.rtwbmal_appoint_duration{
+	width: 12%;
+}
+.rtwbmal_appointments_header {
+	 margin-top: 20px;
+	 width: 100%;
+}
+.rtwbmal_appointments_list {
+	display: block;
+	width: 100%;
+}
+.rtwbmal_appointments_list .rtwbmal_single_appointment {
+	border: 1px solid #dddddd;
+	padding: 18px 8px;
+	position: relative;
+	margin-bottom: 10px;
+	font-size: 14px;
+	box-shadow: 0 2px 3px rgba(0,0,0,.1),0 0 15px rgba(0,0,0,.07);
+	-webkit-box-shadow: 0 2px 3px rgba(0,0,0,.1),0 0 15px rgba(0,0,0,.07);
+	-moz-box-shadow: 0 2px 3px rgba(0,0,0,.1),0 0 15px rgba(0,0,0,.07);
+}
+.rtwbmal_appoint_img {
+	width: 40px;
+	position: absolute;
+	left: 15px;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.rtwbmal_appoint_name_add_emp {
+	display: flex;
+	width: 100%;
+	flex-wrap: wrap;
+	position: relative;
+}
+.rtwbmal_appoint_edit_del {
+	position: absolute;
+	right: 15px;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.rtwbmal_appoint_name_add_emp > div {
+	/* width: 120px; */
+	text-align: left;
+	padding-right: 10px;
+	word-wrap: break-word;
+}
+.rtwbmal_appoint_edit_del ul {
+	display: flex;
+	margin: 0;
+	justify-content: right;
+}
+.rtwbmal_appoint_edit_del ul li {
+	margin: 0 4px;
+}
+.rtwbmal_appoint_edit_del ul li a {
+	color: #777777;
+}
+.rtwbmal_appoint_day_separator {
+	background-color: #f2d8b9;
+	margin: -20px -8px 8px -8px;
+}
+.rtwbmal_appoint_date_holder {
+	background-color: #2a1a5e;
+	display: inline-block;
+	color: #fff;
+	padding: 2px 9px;
+	font-weight: 500;
+	font-size: 13px;
+	display: inline-block;
+}
+.rtwbmal_appoint_status-tab {
+	border: 1px solid #30b893;
+	color: #30b893;
+	padding: 6px 15px;
+	border-radius: 3px;
+	font-weight: 500;
+}
+.rtwbmal_appoint_status-tab i {
+	font-size: 18px;
+	vertical-align: text-bottom;
+	display: inline-block;
+}
+.rtwbmal_appoint_status-tab.pending{
+	border-color: #f2a541;
+	color: #f2a541;
+}
+.rtwbmal_appoint_status-tab.cancelled{
+	color: #e33c3c;
+	border-color: #e33c3c;
+}
+.rtwbmal_appoint_status-tab.rejected{
+	color: #e33c3c;
+	border-color: #e33c3c;
+}
+.rtwbmal_next_prev button {
+	width: 27px;
+	height: 27px;
+	padding: 0;
+	background-color: #ffffff;
+	border: 1px solid #eeeeee;
+	border-radius: 50%;
+	margin-right: 7px;
+	color: #888888;
+	font-weight: 500;
+	cursor: pointer;
+}
+
+
+#notificationrtw {
+	position: relative;
+	width: 100%;
+	left: 0;
+	top: 0;
+	z-index: 100000;
+  }
+  #notificationrtw span {
+	text-align: center;
+	position: relative;
+	margin: 0;
+	padding: 5px;
+	padding-left: 10px;
+	border-bottom: 2px solid;
+  }
+  .rtwbmal_popup_body {
+	height: 400px;
+}

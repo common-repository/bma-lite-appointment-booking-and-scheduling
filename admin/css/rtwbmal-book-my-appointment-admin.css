@@ -1,0 +1,582 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ /* @import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css'); */
+ /*common css*/
+ *{
+	box-sizing: border-box;
+}
+.rtwbmal_hidden{
+   display: hidden;
+}
+.rtwbmal_custom_checkbox,
+.rtwbmal_custom_radio {
+   position: relative;
+   width: 15px;
+   height: 15px;
+   display: inline-block;
+   margin-right: 10px;
+}
+.rtwbmal_custom_checkbox input[type="checkbox"],
+.rtwbmal_custom_radio input[type="radio"] {
+   -webkit-appearance: none;
+   -moz-appearance: none;
+   -ms-appearance: none;
+   margin: 0;
+   padding: 0;
+   border: none;
+   background-color: transparent;
+}
+.rtwbmal_custom_checkbox input[type="checkbox"]:focus,
+.rtwbmal_custom_radio input[type="radio"]:focus{
+   outline: 0;
+   box-shadow: none;
+}
+.rtwbmal_custom_checkbox input[type="checkbox"]::after,
+.rtwbmal_custom_radio input[type="radio"]::after {
+   border-radius: 4px;
+   border: 2px solid #2a1a5e;
+   content: "";
+   height: 100%;
+   left: 0;
+   margin: 0 auto;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}
+.rtwbmal_custom_radio input[type="radio"]::after{
+   border-radius: 50%;
+}
+.rtwbmal_custom_checkbox input[type="checkbox"]:checked::before {
+   background-color: #2a1a5e;
+   bottom: 0;
+   color: #ffffff;
+   content: "\f00c";
+   display: block;
+   font-family: "Font Awesome 5 Free";
+   font-size: 10px;
+   font-weight: 900;
+   height: 100%;
+   left: 2px;
+   line-height: 16px;
+   margin: 0 auto;
+   position: absolute;
+   right: 0;
+   top: 2px;
+   width: 100%;
+   z-index: 1;
+}
+.rtwbmal_custom_radio input[type="radio"]::before {
+   -o-transition: 0.3s linear all;
+   -webkit-transition: 0.3s linear all;
+   background-color: #2a1a5e;
+   border-radius: 50%;
+   content: "";
+   display: inline-block;
+   height: 8px;
+   left:4px;
+   margin: 0 auto;
+   opacity: 0;
+   position: absolute;
+   right: 0;
+   top: 6px;
+   transform: scale(0);
+   transition: 0.3s linear all;
+   visibility: hidden;
+   width: 8px;
+}
+.rtwbmal_custom_radio input[type="radio"]:checked::before {
+   -o-transition: 0.3s linear all;
+   -webkit-transition: 0.3s linear all;
+   transition: 0.3s linear all;
+   transform: scale(1);
+   opacity: 1;
+   visibility: visible;
+}
+.rtwbmal_subtabs {
+   padding: 20px 15px;
+}
+.rtwbmal_subtabs ul {
+   margin: auto;
+   background-color: #eeeeee;
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+}
+.rtwbmal_subtabs ul li {
+   display: inline-block;
+   margin: 0;
+   padding: 14px 10px;
+   flex-grow: 1;
+   text-align: center;
+   cursor: pointer;
+   border-radius: 3px 0 3px 0;
+}
+.rtwbmal_subtabs ul li.active {
+   background-color: #2a1a5e;
+   color: #ffffff;
+}
+.rtwbmal-header-inner-left img,
+.rtwbmal_popup_upload_img img{
+	height: 100px;
+	width: 100px;
+}
+.margin-0{
+	margin: 0;
+}
+.rtwbmal_button {
+	background: #2a1a5e;
+	padding: 10px 30px;
+	display: inline-block;
+	text-decoration: none;
+	color: #ffffff;
+	border-radius: 4px;
+	font-size: 16px;
+	position: relative;
+   border: none;
+   cursor: pointer;
+}
+.rtwbmal_button:hover,.rtwbmal_button:focus{
+	outline: 0;
+	box-shadow: none;
+	text-decoration: none;
+	color: #ffffff;
+	opacity: 0.8;
+}
+.rtwbmal_button .rtwbmal_text {
+	padding-left: 24px;
+}
+.rtwbmal_button .rtwbmal_plus {
+	position: absolute;
+	left: 0;
+	width: 38px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 38px;
+	top: 0;
+	text-align: center;
+	background-color: #ef9434;
+}
+a:focus{
+	outline: 0;
+	text-decoration: none;
+	box-shadow: none;
+}
+.rtwbmal-main p,
+.rtwbmal-main li{
+	font-size: 16px;
+	line-height: 1.7;
+}
+.rtwbmal-main img{
+	max-width: 100%;
+	width: auto;
+}
+.rtwbmal-main-header, .rtwbmal-main,
+.rtwbmal_emp_popup_bg{
+	font-size: 16px;
+}
+.rtwbmal-main-header *, .rtwbmal-main *{
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+}
+.rtwbmal-main-wrapper {
+	padding-right: 20px;
+}
+.text-center{
+	text-align: center;
+}
+.rtwbmal-main-wrapper img{
+	max-width: 100%;
+	width: auto;
+}
+.rtwbmal_page_content input[type="text"],
+.rtwbmal_page_content input[type="number"],
+.rtwbmal_page_content input[type="email"],
+.rtwbmal_page_content input[type="password"],
+.rtwbmal_page_content input[type="date"],
+.rtwbmal_page_content input[type="tel"],
+.rtwbmal_page_content input[type="file"]{
+	padding: 10px;
+	border: 1px solid #eeeeee;
+	box-shadow: none;
+	background-color: #ffffff;
+   width: 100%;
+   line-height: 1.4;
+}
+/*end common css*/
+/*header css*/
+.rtwbmal-header-inner-left {
+	flex: 0 0 50%;
+	padding: 15px;
+}
+.rtwbmal-header-inner-right {
+	flex: 0 0 50%;
+	padding: 15px;
+}
+.rtwbmal-main-header {
+	background-color: #ffffff;
+	margin-top: 20px;
+	border: 2px solid #e9ecef;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.rtwbmal-header-inner-right ul{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	justify-content: flex-end;
+}
+.rtwbmal-header-inner-right ul li a {
+	display: block;
+	width: 40px;
+	height: 40px;
+	border: 1px solid #ddd;
+	text-align: center;
+	line-height: 38px;
+	margin: 0 5px;
+	border-radius: 50%;
+	font-size: 16px;
+	color: #777777;
+}
+.rtwbmal-header-inner-right ul li {
+   position: relative;
+}
+.rtwbmal-header-inner-right ul li:hover .rtwbmal-shortcode-wrapper{
+   opacity: 1;
+   visibility: visible;
+   transform: translateY(0);
+   transition: 0.3s linear all;
+}
+.rtwbmal-shortcode-wrapper {
+   position: absolute;
+   right: 0;
+   width: 300px;
+   background-color: #efefef;
+   box-shadow: 0 0 20px rgba(0,0,0,0.1);
+   padding: 15px;
+   top: 48px;
+   border-radius: 4px;
+   opacity: 0;
+   visibility: hidden;
+   transition: 0.3s linear all;
+   transform: translateY(-40px);
+   z-index: 22;
+}
+.rtwbmal-shortcode-wrapper h3{
+   margin-top:0;
+}
+.rtwbmal-shortcode-wrapper::after {
+   content: "";
+   border-right: 6px solid transparent;
+   border-left: 6px solid transparent;
+   border-bottom: 6px solid #efefef;
+   position: absolute;
+   top: -6px;
+   right: 20px;
+}
+.rtwbmal-shortcode-wrapper ul {
+   display: block;
+}
+.rtwbmal-shortcode-wrapper ul li input {
+   width: 100%;
+   background-color: #ffffff;
+   border: 1px solid #dddddd;
+   padding: 10px;
+   line-height: 1.4;
+}
+.rtwbmal-header-inner-left img{
+	vertical-align: middle;
+}
+.rtwbmal-header-inner-left h1 {
+	margin: 0 0 0 10px;
+	display: inline-block;
+	vertical-align: middle;
+}
+/*end header css*/
+/*main-content*/
+.rtwbmal_page_content {
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   background-color: #fff;
+   padding: 20px;
+   margin-top: 20px;
+   border-top: 4px solid #2a1a5e;
+   border-radius: 3px;
+}
+/*end main-content*/
+/*popup design*/
+#rtwbmal_popup {
+	max-width: 767px;
+   margin-top: 20px;
+	width: 100%;
+	padding: 0;
+	font-size: 14px;
+}
+.rtwbmal_popup_header {
+	background-color: #ef9434;
+	color: #ffffff;
+	padding: 15px;
+	font-size: 18px;
+	font-weight: 500;
+	letter-spacing: 1px;
+}
+.rtwbmal_popup_body {
+	padding: 15px;
+	overflow-y: auto;
+}
+.rtwbmal_popup_footer {
+	background-color: #ece9e9;
+	padding: 15px;
+}
+.rtwbmal_popup_footer .rtwbmal_popup_action {
+	display: inline-block;
+}
+.rtwbmal_popup_footer .rtwbmal_popup_action a {
+   background-color: #2a1a5e;
+   padding: 9px 34px;
+   display: inline-block;
+   text-decoration: none;
+   margin-right: 10px;
+   color: #ffffff;
+}
+.rtwbmal_popup_footer .rtwbmal_popup_action .rtwbmal_close {
+	background-color: #dddddd;
+	color: #333333;
+}
+.rtwbmal_popup_body label {
+	width: 160px;
+	font-weight: 500;
+}
+.rtwbmal_popup_body label,
+.rtwbmal_popup_content input,
+.rtwbmal_popup_content textarea,
+.rtwbmal_popup_img,.rtwbmal_popup_upload_image_wrapper{
+	vertical-align: middle;
+	display: inline-block;
+	margin-bottom: 15px;
+}
+.rtwbmal_popup_content input[type="text"],
+.rtwbmal_popup_content input[type="email"],
+.rtwbmal_popup_content input[type="password"],
+.rtwbmal_popup_content input[type="tel"],
+.rtwbmal_popup_content input[type="number"],
+.rtwbmal_popup_content input[type="date"],
+.rtwbmal_popup_content textarea {
+	width: calc(100% - 170px);
+	padding: 9px 10px;
+	border: 1px solid #dddddd;
+   box-shadow: none;
+   height: auto;
+   line-height: 1.4;
+   color:#72777c;
+}
+.rtwbmal_select ~ .select2.select2-container,
+.rtwbmal_popup_upload_image_wrapper {
+	margin-bottom: 15px;
+	width: calc(100% - 170px) !important;
+}
+.rtwbmal_select ~ .select2-container .select2-selection--single{
+	border-color: #dddddd;
+	min-height: 41px;
+	line-height: 26px;
+}
+.rtwbmal_select ~ .select2-container--default .select2-selection--single .select2-selection__rendered{
+	line-height: 40px;
+	font-size: 14px;
+	color:#72777c;
+}
+.rtwbmal_select ~  .select2-container--default .select2-selection--single .select2-selection__arrow{
+   top: 10px;
+}
+.rtwbmal_popup_upload_icon {
+	display: inline-block;
+	border: 2px solid #777777;
+	padding: 15px;
+	border-radius: 6px;
+	cursor: pointer;
+}
+.rtwbmal_popup_upload_image_inner_wrapper {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.rtwbmal_popup_upload_remove,.rtwbmal_popup_upload_img {
+	display: inline-block;
+}
+/*end popup design*/
+/*footer*/
+.rtwbmal-main-footer {
+	text-align: center;
+	padding-top: 15px;
+	color: #777777;
+}
+.rtwbmal-main-footer a{
+	color: #333333;
+	font-weight: 400;
+}
+/*end footer*/
+.rtwbmal_description {
+   display: block;
+   width: 100%;
+   font-size: 14px;
+}
+
+/*datepikcer calendar design*/
+.rtwbmal_datapicker_calendar_wrapper {
+   padding: 0!important;
+   border: 1px solid #dddddd!important;
+   box-shadow: 2px 4px 10px rgba(0,0,0,0.1);
+   width: 320px;
+}
+.rtwbmal_datapicker_calendar_wrapper .ui-datepicker-header {
+   background: #2a1a5e;
+   color: #ffffff;
+   padding: 15px !important;
+}
+.rtwbmal_datapicker_calendar_wrapper .ui-datepicker-header .ui-icon{
+   display: none;
+}
+.rtwbmal_datapicker_calendar_wrapper .ui-datepicker-header .ui-datepicker-next,
+.rtwbmal_datapicker_calendar_wrapper .ui-datepicker-header .ui-datepicker-prev {
+   background-color: #ffffff;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   cursor: pointer;
+   top: 50%;
+   transform: translateY(-50%);
+}
+.rtwbmal_datapicker_calendar_wrapper .ui-datepicker-header .ui-datepicker-next::after,
+.rtwbmal_datapicker_calendar_wrapper .ui-datepicker-header .ui-datepicker-prev::after{
+   font-weight: 900;
+   font-family: "Font Awesome 5 Free";
+   position: absolute;
+}
+.rtwbmal_datapicker_calendar_wrapper .ui-datepicker-header .ui-datepicker-next::after{
+   content: "\f101";
+}
+.rtwbmal_datapicker_calendar_wrapper .ui-datepicker-header .ui-datepicker-prev::after{
+   content: "\f100";
+}
+
+.rtwbmal_datapicker_calendar_wrapper td, .rtwbmal_datapicker_calendar_wrapper th {
+   border: 1px solid #ddd;
+}
+.rtwbmal_datapicker_calendar_wrapper .ui-state-default,
+.rtwbmal_datapicker_calendar_wrapper .ui-widget-content .ui-state-default,
+.rtwbmal_datapicker_calendar_wrapper .ui-widget-header .ui-state-default{
+   background:#efefef !important;
+   border: none !important;
+   padding: 6px !important;
+   font-size: 14px;
+}
+.rtwbmal_datapicker_calendar_wrapper .ui-state-default.ui-state-active{
+   background: #ef9434!important;
+   color: #ffffff;
+}
+.rtwbmal_verify_wrapper {
+   padding: 30px;
+   max-width: 500px;
+   margin: 40px auto;
+   box-shadow: 2px 1px 16px rgba(0,0,0,0.16);
+}
+#rtwbmal_verify label {
+   display: block;
+   font-size: 19px;
+   font-weight: bold;
+}
+.rtwbmal_verify_wrapper .rtwbmal_purchase_code {
+   background-color: #ffffff;
+   display: block;
+   width: 100%;
+   border: 1px solid #efefef;
+   margin-bottom: 15px;
+   padding: 10px;
+   margin-top: 10px;
+}
+#rtwbmal_verify_code {
+   margin-top: 20px;
+   padding: 10px 35px;
+   font-size: 16px;
+}
+.rtwbmal_find_code{
+   margin-bottom: 2%;
+}
+.rtwbmal_successs{
+   color: Green;
+}
+.rtwbmal_errorr{
+   color: red;
+}
+
+.rtwbmal_pro_text {
+   display: block;
+   margin-bottom: 15px;
+   background-color: #d1ecf1;
+   padding: 15px;
+   text-align: center;
+   border-radius: 4px;
+   border: 1px solid #bee5eb;
+   color: #0c5460;
+}
+.rtwbmal_pro_text a {
+   background-color: #f44040;
+   padding: 8px 10px;
+   color: #fff;
+   margin-left: 10px;
+   border-radius: 4px;
+   font-size: 15px;
+   cursor: pointer;
+}
+.rtwbmal_pro_text a:hover,.rtwbmal_pro_text a:focus{
+   opacity: 0.9;
+   background-color: #f44040;
+}
+.rtwbmal_pro_text_overlay{
+   position: relative;
+}
+.rtwbmal_pro_text_overlay::before {
+   content: "This feature is available in Pro";
+   position: absolute;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   top: -11px;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   font-size: 25px;
+   font-weight: bold;
+   letter-spacing: 1px;
+   transform: rotate(-29deg);
+   transform-origin: center center;
+   color: #5e2c2c;
+   z-index: 9;
+}
+table .rtwbmal_pro_text {
+   display: inline-block;
+   padding: 10px;
+   font-size: 13px;
+   margin-left: 5px;
+   /* float: right; */
+}
+table label .rtwbmal_pro_text {
+   padding: 2px 4px;
+   background-color: #ee1c1c;
+   color: #ffffff;
+   border: none;
+}
+.rtwbma_pro_menu{
+   color: #ea6d2f
+}
+/*end datepikcer calendar design*/

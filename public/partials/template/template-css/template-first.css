@@ -1,0 +1,33 @@
+.rtwbmal_prcoess_stpes_btns, .rtwbmal_next{
+    text-align: center;
+}
+.notifyjs-wrapper{
+    position: static !important;
+    width: auto !important;
+    height: auto;
+    margin: 0 auto;
+    min-width: 200px;
+}
+.notifyjs-container{
+    position: static !important;
+}
+.rtwbmal_input_wrapper.isfocus .rtwbmal_input_span {
+    background-color: #ffffff;
+    top: -11px;
+}
+.rtwbmal_apply_coupon{
+    background-color: #ef9434 !important;
+	color: #ffffff !important;
+}
+.rtwbmal_error_message{
+    color: red !important;
+}
+.rtwbmal_input_wrapper.isfocus {
+    border-width: 2px;
+    border-color: #ef9434;
+}
+@media screen and (max-width: 767px){
+    .rtwbmal_step_by_step-nav{
+        display: none;
+    }
+}

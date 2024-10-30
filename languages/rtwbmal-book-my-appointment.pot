@@ -1,0 +1,3734 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BMA - WordPress Appointment Booking Plugin for Enterprise - 1.0.0\n"
+"POT-Creation-Date: 2024-01-10 19:09+0530\n"
+"PO-Revision-Date: 2019-11-27 18:17+0530\n"
+"Last-Translator: \n"
+"Language-Team: RedefiningTheWeb\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:6
+#: admin/rtwbmal-class-book-my-appointment-admin.php:412
+msgid "Appearance"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:9
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:65
+#: admin/partials/settings/rtwbmal-settings-display.php:631
+#: admin/partials/settings/rtwbmal-settings-display.php:670
+#: admin/partials/settings/rtwbmal-settings-display.php:1077
+#: admin/partials/template/rtwbmal-template-display.php:17
+msgid "This feature is available in Pro version"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:10
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:66
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:72
+#: admin/partials/forms/rtwbmal-forms-display.php:2
+#: admin/partials/settings/rtwbmal-settings-display.php:632
+#: admin/partials/settings/rtwbmal-settings-display.php:671
+#: admin/partials/settings/rtwbmal-settings-display.php:1078
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:58
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:111
+#: admin/partials/template/rtwbmal-template-display.php:18
+msgid "Get it now"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:14
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:122
+#: admin/rtwbmal-class-book-my-appointment-admin.php:406
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:503
+#: public/partials/template/templates/rtwbmal-template-first.php:4
+msgid "Services"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:15
+#: public/partials/template/templates/rtwbmal-template-first.php:5
+msgid "Specialist"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:16
+#: public/partials/template/templates/rtwbmal-template-first.php:6
+msgid "Date &amp; Time"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:17
+#: admin/partials/payments/rtwbmal-payments-display.php:38
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:336
+#: public/partials/template/templates/rtwbmal-template-first.php:7
+msgid "Customer"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:18
+#: admin/partials/settings/rtwbmal-settings-display.php:301
+#: admin/partials/settings/rtwbmal-settings-display.php:488
+#: public/partials/template/templates/rtwbmal-template-first.php:8
+msgid "Payment"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:24
+#: public/partials/template/templates/rtwbmal-template-first.php:13
+#: public/rtwbmal-class-book-my-appointment-public.php:134
+msgid "Select a Service"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:29
+#: admin/partials/appearance/rtwbmal-appearance-display.php:36
+#: admin/partials/appearance/rtwbmal-appearance-display.php:43
+msgid "Service Name"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:31
+#: admin/partials/appearance/rtwbmal-appearance-display.php:38
+#: admin/partials/appearance/rtwbmal-appearance-display.php:45
+msgid "$1.00"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:32
+#: admin/partials/appearance/rtwbmal-appearance-display.php:39
+#: admin/partials/appearance/rtwbmal-appearance-display.php:46
+#: public/partials/template/templates/rtwbmal-template-first.php:32
+msgid "Book Now"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:54
+#: public/partials/template/templates/rtwbmal-template-first.php:47
+#: public/rtwbmal-class-book-my-appointment-public.php:223
+msgid "Select Specialist"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:58
+#: admin/partials/appearance/rtwbmal-appearance-display.php:66
+#: admin/partials/appearance/rtwbmal-appearance-display.php:74
+msgid "Specialist Name"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:83
+#: public/partials/template/templates/rtwbmal-template-first.php:50
+msgid "Select Date & Time for Appointment"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:87
+#: public/partials/template/templates/rtwbmal-template-first.php:54
+msgid "Select Date"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:95
+#: public/partials/template/templates/rtwbmal-template-first.php:61
+msgid "Enter Number of People"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:104
+#: public/partials/template/templates/rtwbmal-template-first.php:68
+msgid "Select Time"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:113
+#: public/partials/template/templates/rtwbmal-template-first.php:82
+msgid "Customer Detail"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:117
+#: public/partials/template/templates/rtwbmal-template-first.php:86
+msgid "First name"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:124
+#: public/partials/template/templates/rtwbmal-template-first.php:93
+msgid "Last name"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:131
+#: admin/partials/customers/rtwbmal-customers-display.php:28
+#: admin/partials/customers/rtwbmal-customers-display.php:170
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:67
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:203
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:372
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:472
+#: public/partials/template/templates/rtwbmal-template-first.php:100
+msgid "Email"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:138
+#: public/partials/template/templates/rtwbmal-template-first.php:107
+msgid "Mobile No"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:145
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:168
+#: public/partials/template/templates/rtwbmal-template-first.php:114
+msgid "Message"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:154
+#: public/partials/template/templates/rtwbmal-template-first.php:129
+msgid "Select Payment Method"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:157
+#: public/partials/template/templates/rtwbmal-template-first.php:133
+msgid "Pay Locally"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:164
+msgid "Using Paypal"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:172
+msgid "Using Stripe"
+msgstr ""
+
+#: admin/partials/appearance/rtwbmal-appearance-display.php:181
+msgid "Save Changes"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:55
+#: admin/rtwbmal-class-book-my-appointment-admin.php:402
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:270
+msgid "Appointments"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:62
+#: admin/partials/appointments/rtwbmal-appointments-display.php:244
+msgid "Add New Appointment"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:69
+msgid "Search:"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:74
+msgid "All Status"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:75
+#: admin/partials/appointments/rtwbmal-appointments-display.php:181
+#: admin/partials/appointments/rtwbmal-appointments-display.php:381
+#: admin/partials/calendar/rtwbmal-calendar-display.php:172
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:47
+#: admin/partials/payments/rtwbmal-payments-display.php:86
+#: admin/partials/settings/rtwbmal-settings-display.php:406
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:317
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1759
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1761
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2554
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2681
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:321
+msgid "Pending"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:76
+#: admin/partials/appointments/rtwbmal-appointments-display.php:187
+#: admin/partials/appointments/rtwbmal-appointments-display.php:384
+#: admin/partials/calendar/rtwbmal-calendar-display.php:175
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:48
+#: admin/partials/settings/rtwbmal-settings-display.php:407
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:318
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1764
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2559
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2686
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:325
+msgid "Approved"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:77
+#: admin/partials/appointments/rtwbmal-appointments-display.php:193
+#: admin/partials/appointments/rtwbmal-appointments-display.php:387
+#: admin/partials/calendar/rtwbmal-calendar-display.php:178
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:49
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:319
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1767
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2565
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2691
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:329
+msgid "Cancelled"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:78
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:51
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:321
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:337
+msgid "Rescheduled"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:84
+#: admin/partials/services/rtwbmal-services-display.php:60
+msgid "All Services"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:97
+msgid "All Employees"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:110
+msgid "All customers"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:122
+msgid "Filters"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:130
+#: admin/partials/settings/rtwbmal-settings-display.php:610
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:277
+msgid "Date"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:131
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:164
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:172
+#: admin/partials/payments/rtwbmal-payments-display.php:39
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:335
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1798
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:279
+msgid "Employee"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:132
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:165
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:187
+#: admin/partials/payments/rtwbmal-payments-display.php:40
+#: admin/partials/services/rtwbmal-services-display.php:105
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:278
+msgid "Service"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:133
+msgid "Customer Name"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:134
+#: admin/partials/payments/rtwbmal-payments-display.php:41
+#: admin/partials/services/rtwbmal-services-display.php:106
+#: admin/partials/services/rtwbmal-services-display.php:262
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:280
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:506
+msgid "Price"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:135
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:78
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:204
+#: admin/partials/payments/rtwbmal-payments-display.php:44
+#: admin/partials/services/rtwbmal-services-display.php:108
+#: admin/partials/services/rtwbmal-services-display.php:272
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:251
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:299
+#: admin/rtwbmal-class-book-my-appointment-admin.php:414
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:281
+msgid "Status"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:136
+#: admin/partials/services/rtwbmal-services-display.php:107
+#: admin/partials/services/rtwbmal-services-display.php:318
+msgid "Duration"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:199
+#: admin/partials/appointments/rtwbmal-appointments-display.php:390
+#: admin/partials/calendar/rtwbmal-calendar-display.php:181
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:50
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:320
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1770
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2571
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2696
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:333
+msgid "Rejected"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:206
+#: admin/partials/appointments/rtwbmal-appointments-display.php:274
+#: admin/partials/calendar/rtwbmal-calendar-display.php:72
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1700
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2578
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2702
+msgid "min"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:253
+#: admin/partials/appointments/rtwbmal-appointments-display.php:257
+#: admin/partials/calendar/rtwbmal-calendar-display.php:51
+#: admin/partials/calendar/rtwbmal-calendar-display.php:55
+msgid "Select Service"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:271
+#: admin/partials/calendar/rtwbmal-calendar-display.php:69
+#: admin/partials/services/rtwbmal-services-display.php:138
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1697
+msgid "hr"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:288
+#: admin/partials/calendar/rtwbmal-calendar-display.php:86
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2422
+msgid "Select Employee"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:307
+#: admin/partials/calendar/rtwbmal-calendar-display.php:98
+msgid "Select Customer"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:326
+#: admin/partials/calendar/rtwbmal-calendar-display.php:117
+#: admin/partials/coupon/rtwbmal-coupon-display.php:40
+#: admin/partials/coupon/rtwbmal-coupon-display.php:128
+msgid "Start Date"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:336
+#: admin/partials/calendar/rtwbmal-calendar-display.php:127
+#: admin/partials/coupon/rtwbmal-coupon-display.php:49
+#: admin/partials/coupon/rtwbmal-coupon-display.php:129
+msgid "End Date"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:346
+#: admin/partials/calendar/rtwbmal-calendar-display.php:137
+msgid "Start Time"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:356
+#: admin/partials/calendar/rtwbmal-calendar-display.php:147
+msgid "End Time"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:366
+#: admin/partials/calendar/rtwbmal-calendar-display.php:157
+msgid "No of people"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:376
+#: admin/partials/calendar/rtwbmal-calendar-display.php:167
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:143
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:312
+msgid "Appointment Status"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:393
+msgid "Reschedule"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:402
+#: admin/partials/calendar/rtwbmal-calendar-display.php:190
+msgid "Payment Method"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:407
+#: admin/partials/calendar/rtwbmal-calendar-display.php:195
+msgid "Locally"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:410
+#: admin/partials/calendar/rtwbmal-calendar-display.php:198
+#: admin/partials/payments/rtwbmal-payments-display.php:107
+msgid "PayPal"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:413
+#: admin/partials/calendar/rtwbmal-calendar-display.php:201
+#: admin/partials/payments/rtwbmal-payments-display.php:110
+#: admin/partials/settings/rtwbmal-settings-display.php:676
+msgid "Stripe"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:422
+#: admin/partials/calendar/rtwbmal-calendar-display.php:210
+msgid "Payment Status"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:427
+#: admin/partials/calendar/rtwbmal-calendar-display.php:215
+msgid "Zero"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:430
+#: admin/partials/calendar/rtwbmal-calendar-display.php:218
+msgid "Partially Paid"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:433
+#: admin/partials/calendar/rtwbmal-calendar-display.php:221
+msgid "Fully Paid"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:442
+#: admin/partials/calendar/rtwbmal-calendar-display.php:230
+msgid "Paid Amount"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:452
+#: admin/partials/calendar/rtwbmal-calendar-display.php:240
+msgid "Send Notification"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:457
+#: admin/partials/calendar/rtwbmal-calendar-display.php:245
+msgid "Don't Send Notification"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:460
+#: admin/partials/calendar/rtwbmal-calendar-display.php:248
+msgid "Send Notification on Status Changed and New"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:469
+#: admin/partials/calendar/rtwbmal-calendar-display.php:257
+msgid "Add Note"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:472
+#: admin/partials/calendar/rtwbmal-calendar-display.php:260
+msgid "Add a Note"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:480
+#: admin/partials/calendar/rtwbmal-calendar-display.php:268
+#: admin/partials/coupon/rtwbmal-coupon-display.php:109
+#: admin/partials/custom_css/rtwbmal-custom-css-display.php:77
+#: admin/partials/customers/rtwbmal-customers-display.php:263
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:243
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:409
+#: admin/partials/locations/rtwbmal-locations-display.php:173
+#: admin/partials/services/rtwbmal-services-display.php:199
+#: admin/partials/services/rtwbmal-services-display.php:394
+#: admin/partials/settings/rtwbmal-settings-display.php:1189
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:382
+#: admin/partials/template/rtwbmal-template-display.php:105
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:493
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:563
+msgid "Save"
+msgstr ""
+
+#: admin/partials/appointments/rtwbmal-appointments-display.php:483
+#: admin/partials/calendar/rtwbmal-calendar-display.php:271
+#: admin/partials/customers/rtwbmal-customers-display.php:266
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:246
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:412
+#: admin/partials/locations/rtwbmal-locations-display.php:176
+#: admin/partials/services/rtwbmal-services-display.php:202
+#: admin/partials/services/rtwbmal-services-display.php:397
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:385
+msgid "Close"
+msgstr ""
+
+#: admin/partials/calendar/rtwbmal-calendar-display.php:14
+msgid "Calender"
+msgstr ""
+
+#: admin/partials/calendar/rtwbmal-calendar-display.php:35
+#: admin/rtwbmal-class-book-my-appointment-admin.php:277
+msgid "Appointment"
+msgstr ""
+
+#: admin/partials/calendar/rtwbmal-calendar-display.php:42
+msgid "Edit Appointment"
+msgstr ""
+
+#: admin/partials/coupon/rtwbmal-coupon-display.php:2
+msgid "Add New Coupon"
+msgstr ""
+
+#: admin/partials/coupon/rtwbmal-coupon-display.php:6
+#: admin/rtwbmal-class-book-my-appointment-admin.php:417
+msgid "Coupons"
+msgstr ""
+
+#: admin/partials/coupon/rtwbmal-coupon-display.php:11
+msgid "Get Pro now"
+msgstr ""
+
+#: admin/partials/coupon/rtwbmal-coupon-display.php:11
+#: admin/partials/forms/rtwbmal-forms-display.php:2
+msgid " This feature is available in Pro version"
+msgstr ""
+
+#: admin/partials/coupon/rtwbmal-coupon-display.php:23
+msgid "Enter Coupon Code"
+msgstr ""
+
+#: admin/partials/coupon/rtwbmal-coupon-display.php:27
+msgid "Select Discount Type"
+msgstr ""
+
+#: admin/partials/coupon/rtwbmal-coupon-display.php:29
+msgid "Percent"
+msgstr ""
+
+#: admin/partials/coupon/rtwbmal-coupon-display.php:30
+msgid "Fixed"
+msgstr ""
+
+#: admin/partials/coupon/rtwbmal-coupon-display.php:36
+msgid "Enter Discount Value"
+msgstr ""
+
+#: admin/partials/coupon/rtwbmal-coupon-display.php:53
+#: admin/partials/coupon/rtwbmal-coupon-display.php:130
+msgid "Usage Limit"
+msgstr ""
+
+#: admin/partials/coupon/rtwbmal-coupon-display.php:64
+msgid "For Individual Use Only"
+msgstr ""
+
+#: admin/partials/coupon/rtwbmal-coupon-display.php:67
+msgid "Exclude Categories"
+msgstr ""
+
+#: admin/partials/coupon/rtwbmal-coupon-display.php:82
+msgid "Exclude Services"
+msgstr ""
+
+#: admin/partials/coupon/rtwbmal-coupon-display.php:93
+msgid "Exclude Employee"
+msgstr ""
+
+#: admin/partials/coupon/rtwbmal-coupon-display.php:113
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:282
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:345
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:494
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:564
+msgid "Cancel"
+msgstr ""
+
+#: admin/partials/coupon/rtwbmal-coupon-display.php:125
+msgid "Coupon Code"
+msgstr ""
+
+#: admin/partials/coupon/rtwbmal-coupon-display.php:126
+msgid "Discount Type"
+msgstr ""
+
+#: admin/partials/coupon/rtwbmal-coupon-display.php:127
+msgid "Value"
+msgstr ""
+
+#: admin/partials/coupon/rtwbmal-coupon-display.php:131
+msgid "Excluded Category"
+msgstr ""
+
+#: admin/partials/coupon/rtwbmal-coupon-display.php:132
+msgid "Excluded Service"
+msgstr ""
+
+#: admin/partials/coupon/rtwbmal-coupon-display.php:133
+msgid "Excluded Staff"
+msgstr ""
+
+#: admin/partials/custom_css/rtwbmal-custom-css-display.php:45
+#: admin/partials/template/rtwbmal-template-display.php:24
+msgid "For Booking Page"
+msgstr ""
+
+#: admin/partials/custom_css/rtwbmal-custom-css-display.php:50
+msgid "Add border radius for services image"
+msgstr ""
+
+#: admin/partials/custom_css/rtwbmal-custom-css-display.php:58
+#: admin/partials/custom_css/rtwbmal-custom-css-display.php:70
+msgid "Should be given in number."
+msgstr ""
+
+#: admin/partials/custom_css/rtwbmal-custom-css-display.php:62
+msgid "Add border radius for specialist image"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:9
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:74
+#: admin/rtwbmal-class-book-my-appointment-admin.php:410
+msgid "Customers"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:17
+msgid "Add New Customer"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:27
+#: admin/partials/customers/rtwbmal-customers-display.php:143
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:77
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:66
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:187
+#: admin/partials/locations/rtwbmal-locations-display.php:30
+#: admin/partials/locations/rtwbmal-locations-display.php:121
+#: admin/partials/services/rtwbmal-services-display.php:188
+#: admin/partials/services/rtwbmal-services-display.php:252
+#: admin/partials/settings/rtwbmal-settings-display.php:454
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:369
+msgid "Name"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:29
+#: admin/partials/customers/rtwbmal-customers-display.php:180
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:68
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:213
+#: admin/partials/settings/rtwbmal-settings-display.php:478
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:375
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:476
+msgid "Phone"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:84
+msgid "New Customer"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:89
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:132
+#: admin/partials/locations/rtwbmal-locations-display.php:88
+#: admin/partials/services/rtwbmal-services-display.php:219
+msgid "Add Image"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:103
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:146
+#: admin/partials/locations/rtwbmal-locations-display.php:102
+#: admin/partials/services/rtwbmal-services-display.php:233
+msgid "Remove"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:111
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:154
+#: admin/partials/locations/rtwbmal-locations-display.php:110
+#: admin/partials/services/rtwbmal-services-display.php:241
+msgid "Change"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:122
+#: admin/partials/customers/rtwbmal-customers-display.php:129
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:165
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:172
+msgid "Select User"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:147
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:191
+msgid "First"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:148
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:195
+msgid "Last"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:156
+msgid "Gender"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:160
+msgid "Male"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:161
+msgid "Female"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:162
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:52
+msgid "Other"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:173
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:206
+msgid "Enter Email"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:190
+msgid "DOB"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:200
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:211
+msgid "Country"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:210
+msgid "State"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:220
+msgid "City"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:230
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:235
+#: admin/partials/locations/rtwbmal-locations-display.php:31
+#: admin/partials/locations/rtwbmal-locations-display.php:152
+#: admin/partials/services/rtwbmal-services-display.php:373
+#: admin/partials/settings/rtwbmal-settings-display.php:462
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:480
+msgid "Address"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:233
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:238
+msgid "Enter Address"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:240
+msgid "Postal Code"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:250
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:245
+msgid "Other Information"
+msgstr ""
+
+#: admin/partials/customers/rtwbmal-customers-display.php:253
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:248
+msgid "Information"
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:62
+#: admin/rtwbmal-class-book-my-appointment-admin.php:416
+msgid "Dashboard"
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:70
+msgid "Approved Appointments"
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:78
+msgid "Revenue"
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:86
+msgid "Total Appointments "
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:90
+msgid "Indicates the number of total appointments."
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:99
+msgid "Today's Total Appointments  "
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:103
+msgid "Indicates the number of today's appointments."
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:112
+msgid "Total Services  "
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:119
+msgid "Total Employees  "
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:124
+msgid "Total Customers  "
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:129
+msgid "Total Approved Appointments  "
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:134
+msgid "Total Pending Appointments  "
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:139
+msgid "Total Cancelled Appointments  "
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:144
+msgid "Total Rejected Appointments  "
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:149
+msgid "Total Amount  "
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:154
+msgid "Total Received Amount  "
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:173
+msgid "# of appointments"
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:174
+msgid "# of Hours in appointment"
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:175
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:190
+msgid "# of appointments done"
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:176
+#, no-php-format
+msgid "% of load"
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:188
+msgid "# of bookings"
+msgstr ""
+
+#: admin/partials/dashboard/rtwbmal-dashboard-display.php:189
+msgid "Duration (Hours)"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:5
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:5
+msgid "date of appointment"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:6
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:6
+msgid "end date of appointment"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:7
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:7
+msgid "end time of appointment"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:8
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:11
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:8
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:11
+msgid "customer notes for appointment"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:9
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:9
+msgid "time of appointment"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:10
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:10
+msgid "booking number"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:12
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:12
+msgid "name of category"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:13
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:13
+msgid "address of company"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:14
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:14
+msgid "name of company"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:15
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:15
+msgid "company phone"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:16
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:16
+msgid "company web-site address"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:17
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:17
+msgid "address of client"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:18
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:18
+msgid "email of client"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:19
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:19
+msgid "first name of client"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:20
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:20
+msgid "last name of client"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:21
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:21
+msgid "full name of client"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:22
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:22
+msgid "phone of client"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:23
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:23
+msgid "time zone of client"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:24
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:24
+msgid "URL of cancel appointment link (to use inside <a> tag)"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:25
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:25
+msgid "reason you mentioned while deleting appointment"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:27
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:26
+msgid "payment type"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:28
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:27
+msgid "payment status"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:29
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:28
+msgid "total price of booking (sum of all cart items after applying coupon)"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:30
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:29
+msgid "duration of service"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:31
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:30
+msgid "info of service"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:32
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:31
+msgid "name of service"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:33
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:32
+msgid "price of service"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:34
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:33
+msgid "email of staff"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:35
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:34
+msgid "info of staff"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:36
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:35
+msgid "name of staff"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:37
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:36
+msgid "phone of staff"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:38
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:37
+msgid "agenda date"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:39
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:38
+msgid "staff agenda for next day"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:40
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:39
+msgid "date of next day"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:41
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:40
+msgid "customer new password"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:42
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:41
+msgid "customer new username"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:43
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:42
+msgid "site address"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:52
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:322
+msgid "Any"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:58
+#: admin/partials/settings/rtwbmal-settings-display.php:310
+#: admin/partials/settings/rtwbmal-settings-display.php:634
+msgid "Notifications"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:65
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:123
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:241
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:270
+msgid "Add New Notification"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:71
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:57
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:110
+msgid "This feature works in our Pro version"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:79
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:252
+msgid "Edit"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:88
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:209
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:303
+msgid "Enabled"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:89
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:210
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:304
+msgid "Disabled"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:133
+msgid "Notification Name"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:136
+msgid "Enter Notification Name"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:160
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:250
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:282
+msgid "Subject"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:163
+msgid "Enter Notification Subject"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:188
+msgid "Recipients"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:192
+msgid "Adminstrator"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:193
+msgid "Staff"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:194
+msgid "Client"
+msgstr ""
+
+#: admin/partials/email_notifications/rtwbmal-email_notifications-display.php:214
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:344
+msgid "Codes"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:17
+#: admin/partials/settings/rtwbmal-settings-display.php:270
+msgid "Monday"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:18
+#: admin/partials/settings/rtwbmal-settings-display.php:271
+msgid "Tuesday"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:19
+#: admin/partials/settings/rtwbmal-settings-display.php:272
+msgid "Wednesday"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:20
+#: admin/partials/settings/rtwbmal-settings-display.php:273
+msgid "Thursday"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:21
+#: admin/partials/settings/rtwbmal-settings-display.php:274
+msgid "Friday"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:22
+#: admin/partials/settings/rtwbmal-settings-display.php:275
+msgid "Saturday"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:23
+#: admin/partials/settings/rtwbmal-settings-display.php:276
+msgid "Sunday"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:26
+#: admin/partials/services/rtwbmal-services-display.php:16
+#: admin/partials/settings/rtwbmal-settings-display.php:248
+msgid "1 Minute"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:27
+#: admin/partials/services/rtwbmal-services-display.php:17
+#: admin/partials/settings/rtwbmal-settings-display.php:249
+msgid "2 Minutes"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:28
+#: admin/partials/services/rtwbmal-services-display.php:18
+#: admin/partials/settings/rtwbmal-settings-display.php:250
+msgid "3 Minutes"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:29
+#: admin/partials/services/rtwbmal-services-display.php:19
+#: admin/partials/settings/rtwbmal-settings-display.php:251
+msgid "4 Minutes"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:30
+#: admin/partials/services/rtwbmal-services-display.php:20
+#: admin/partials/settings/rtwbmal-settings-display.php:252
+msgid "5 Minutes"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:31
+#: admin/partials/services/rtwbmal-services-display.php:21
+#: admin/partials/settings/rtwbmal-settings-display.php:253
+msgid "10 Minutes"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:32
+#: admin/partials/services/rtwbmal-services-display.php:22
+#: admin/partials/settings/rtwbmal-settings-display.php:254
+msgid "15 Minutes"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:33
+#: admin/partials/services/rtwbmal-services-display.php:23
+#: admin/partials/settings/rtwbmal-settings-display.php:255
+msgid "20 Minutes"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:34
+#: admin/partials/services/rtwbmal-services-display.php:24
+#: admin/partials/settings/rtwbmal-settings-display.php:256
+msgid "30 Minutes"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:35
+#: admin/partials/services/rtwbmal-services-display.php:25
+#: admin/partials/settings/rtwbmal-settings-display.php:257
+msgid "45 Minutes"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:36
+#: admin/partials/services/rtwbmal-services-display.php:26
+#: admin/partials/settings/rtwbmal-settings-display.php:258
+msgid "1 Hour"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:37
+#: admin/partials/services/rtwbmal-services-display.php:27
+#: admin/partials/settings/rtwbmal-settings-display.php:259
+msgid "1 Hour 30 Minutes"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:38
+#: admin/partials/services/rtwbmal-services-display.php:28
+#: admin/partials/settings/rtwbmal-settings-display.php:260
+msgid "2 Hours"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:39
+#: admin/partials/services/rtwbmal-services-display.php:29
+#: admin/partials/settings/rtwbmal-settings-display.php:261
+msgid "3 Hours"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:40
+#: admin/partials/services/rtwbmal-services-display.php:30
+#: admin/partials/settings/rtwbmal-settings-display.php:262
+msgid "4 Hours"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:41
+#: admin/partials/services/rtwbmal-services-display.php:31
+#: admin/partials/settings/rtwbmal-settings-display.php:263
+msgid "5 Hours"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:42
+#: admin/partials/services/rtwbmal-services-display.php:32
+#: admin/partials/settings/rtwbmal-settings-display.php:264
+msgid "6 Hours"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:43
+#: admin/partials/services/rtwbmal-services-display.php:33
+#: admin/partials/settings/rtwbmal-settings-display.php:265
+msgid "8 Hours"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:44
+#: admin/partials/services/rtwbmal-services-display.php:34
+#: admin/partials/settings/rtwbmal-settings-display.php:266
+msgid "12 Hours"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:49
+#: admin/partials/locations/rtwbmal-locations-display.php:32
+#: admin/partials/locations/rtwbmal-locations-display.php:131
+#: admin/rtwbmal-class-book-my-appointment-admin.php:404
+msgid "Employees"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:57
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:113
+msgid "Add New Employee"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:119
+msgid "Details"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:125
+msgid "Working Hours"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:223
+msgid "Visible to Public"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:259
+msgid "Select Location"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:262
+#: admin/partials/locations/rtwbmal-locations-display.php:12
+#: admin/rtwbmal-class-book-my-appointment-admin.php:407
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:550
+msgid "Locations"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:278
+msgid "Select Services"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:281
+msgid "Enter Price ($)"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:284
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:509
+msgid "Capacity"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:359
+msgid "Breaks"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:383
+msgid "X"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:388
+msgid "+"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:389
+msgid "Add New"
+msgstr ""
+
+#: admin/partials/emp_members/rtwbmal-emp_members-display.php:397
+msgid "Apply to all"
+msgstr ""
+
+#: admin/partials/forms/rtwbmal-forms-display.php:8
+msgid "BookMyAppointment Forms"
+msgstr ""
+
+#: admin/partials/forms/rtwbmal-forms-display.php:15
+msgid "Add New Template"
+msgstr ""
+
+#: admin/partials/forms/rtwbmal-forms-list.php:11
+#: admin/partials/template/rtwbmal-template-display.php:13
+#: admin/rtwbmal-class-book-my-appointment-admin.php:415
+msgid "Template"
+msgstr ""
+
+#: admin/partials/forms/rtwbmal-forms-list.php:12
+msgid "Templates"
+msgstr ""
+
+#: admin/partials/forms/rtwbmal-forms-list.php:91
+msgid "No Templates avaliable."
+msgstr ""
+
+#: admin/partials/forms/rtwbmal-forms-list.php:163
+msgid "ID"
+msgstr ""
+
+#: admin/partials/forms/rtwbmal-forms-list.php:164
+#: admin/partials/settings/rtwbmal-settings-display.php:603
+#: admin/partials/settings/rtwbmal-settings-display.php:698
+#: admin/partials/settings/rtwbmal-settings-display.php:933
+msgid "Title"
+msgstr ""
+
+#: admin/partials/forms/rtwbmal-forms-list.php:165
+msgid "ShortCode"
+msgstr ""
+
+#: admin/partials/forms/rtwbmal-forms-list.php:166
+msgid "Created Date"
+msgstr ""
+
+#: admin/partials/forms/rtwbmal-forms-list.php:167
+msgid "Action"
+msgstr ""
+
+#: admin/partials/locations/rtwbmal-locations-display.php:20
+#: admin/partials/locations/rtwbmal-locations-display.php:85
+msgid "Add New Location"
+msgstr ""
+
+#: admin/partials/locations/rtwbmal-locations-display.php:124
+msgid "Enter Location Name"
+msgstr ""
+
+#: admin/partials/locations/rtwbmal-locations-display.php:134
+msgid "Select Employees"
+msgstr ""
+
+#: admin/partials/locations/rtwbmal-locations-display.php:155
+msgid "Enter Location Address"
+msgstr ""
+
+#: admin/partials/locations/rtwbmal-locations-display.php:162
+#: admin/partials/services/rtwbmal-services-display.php:383
+#: admin/partials/settings/rtwbmal-settings-display.php:708
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:118
+msgid "Description"
+msgstr ""
+
+#: admin/partials/locations/rtwbmal-locations-display.php:165
+msgid "Enter Location Description"
+msgstr ""
+
+#: admin/partials/payments/rtwbmal-payments-display.php:28
+#: admin/rtwbmal-class-book-my-appointment-admin.php:411
+msgid "Payments"
+msgstr ""
+
+#: admin/partials/payments/rtwbmal-payments-display.php:42
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1759
+msgid "Paid"
+msgstr ""
+
+#: admin/partials/payments/rtwbmal-payments-display.php:43
+msgid "Payment Date"
+msgstr ""
+
+#: admin/partials/payments/rtwbmal-payments-display.php:45
+msgid "Payment Type"
+msgstr ""
+
+#: admin/partials/payments/rtwbmal-payments-display.php:91
+msgid "Partial"
+msgstr ""
+
+#: admin/partials/payments/rtwbmal-payments-display.php:97
+msgid "Full"
+msgstr ""
+
+#: admin/partials/payments/rtwbmal-payments-display.php:104
+msgid "Local"
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:16
+msgid "Templates in Premium Version"
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:48
+msgid "Premium Vs Free"
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:52
+msgid "Features"
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:56
+msgid "Premium:"
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:58
+msgid "Changeable Panel Position "
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:58
+msgid "on front-end which makes the appointment form more custommizable."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:59
+msgid "Graphical Dashboard "
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:59
+msgid "for the admin to view appointments/ payments/ services/ and much more."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:60
+msgid "Send Email Notification "
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:60
+#: admin/partials/pro_features/rtwbmal-pro-features.php:61
+msgid "to your Customers."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:61
+msgid "Send SMS Notification "
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:62
+msgid "Add custom fields "
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:62
+msgid "for customer details form on the front-end."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:63
+msgid "Use different SMS notifications method."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:64
+msgid "Choose different Template for different Devices (i,e. Desktop, Tablet, Mobile)."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:65
+msgid "Create Unlimited Service Categories."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:66
+msgid "Create Unlimited Services"
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:67
+msgid "Create Unlimited Locations."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:68
+msgid "Choose Unlimited Employees"
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:69
+msgid "Unlimited Customers "
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:69
+msgid "can book Appointment."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:70
+msgid "Unlimited Appointments Booking."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:71
+msgid "Make your own form for the customers"
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:72
+msgid "Select amoung 7 well designed templates."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:73
+msgid "Two additional payment method suppported ."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:73
+msgid "(PayPal & Stripe)."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:74
+msgid "Synchronization with Google Calendar "
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:74
+msgid "to create events in Calendar."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:75
+msgid "Create Coupons."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:75
+msgid " to give discount to your customers."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:76
+msgid "Change Label text of front-end."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:80
+msgid "Free:"
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:82
+#: admin/partials/pro_features/rtwbmal-pro-features.php:83
+#: admin/partials/pro_features/rtwbmal-pro-features.php:84
+#: admin/partials/pro_features/rtwbmal-pro-features.php:85
+#: admin/partials/pro_features/rtwbmal-pro-features.php:86
+#: admin/partials/pro_features/rtwbmal-pro-features.php:87
+#: admin/partials/pro_features/rtwbmal-pro-features.php:88
+#: admin/partials/pro_features/rtwbmal-pro-features.php:98
+#: admin/partials/pro_features/rtwbmal-pro-features.php:99
+#: admin/partials/pro_features/rtwbmal-pro-features.php:100
+msgid "Not Available."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:89
+msgid "Create only 1 Service Category."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:90
+msgid "Create only 5 Services"
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:91
+msgid "Available"
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:92
+msgid "Create only 5 Employees"
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:93
+msgid "Only first 10 customers can book appointments."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:94
+msgid "10 Appointments allowed."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:95
+msgid "Not Available"
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:96
+msgid "Only one template is given."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:97
+msgid "only Locally payment method is allowed."
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:109
+msgid "Contact Our Support Through"
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:115
+msgid "Support Desk"
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:123
+msgid "Skype (Pro)"
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:139
+#: admin/partials/pro_features/rtwbmal-pro-features.php:163
+msgid "Limited time offer"
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:147
+#: admin/partials/pro_features/rtwbmal-pro-features.php:171
+msgid "Get Pro @ Huge% Off"
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:148
+#: admin/partials/pro_features/rtwbmal-pro-features.php:172
+msgid "Buy Now"
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:149
+#: admin/partials/pro_features/rtwbmal-pro-features.php:173
+msgid "just in "
+msgstr ""
+
+#: admin/partials/pro_features/rtwbmal-pro-features.php:150
+#: admin/partials/pro_features/rtwbmal-pro-features.php:174
+msgid "Hurry up offer ends soon "
+msgstr ""
+
+#: admin/partials/rtwbma_without_verify.php:4
+msgid "Enter Purchase Code : "
+msgstr ""
+
+#: admin/partials/rtwbma_without_verify.php:8
+msgid "Where is my purchase code?"
+msgstr ""
+
+#: admin/partials/rtwbma_without_verify.php:10
+msgid "Submit"
+msgstr ""
+
+#: admin/partials/rtwbmal-footer-display.php:4
+msgid "Book My Appointment By"
+msgstr ""
+
+#: admin/partials/rtwbmal-footer-display.php:7
+msgid "RedefiningTheWeb"
+msgstr ""
+
+#: admin/partials/rtwbmal-footer-display.php:11
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/rtwbmal-footer-display.php:14
+msgid "5-Stars Rating"
+msgstr ""
+
+#: admin/partials/rtwbmal-header-display.php:5
+#: admin/rtwbmal-class-book-my-appointment-admin.php:400
+msgid "Book My Appointment Lite"
+msgstr ""
+
+#: admin/partials/rtwbmal-header-display.php:16
+msgid "Shortcodes"
+msgstr ""
+
+#: admin/partials/services/rtwbmal-services-display.php:45
+#: admin/partials/services/rtwbmal-services-display.php:177
+msgid "Add New Category"
+msgstr ""
+
+#: admin/partials/services/rtwbmal-services-display.php:49
+msgid "Categories"
+msgstr ""
+
+#: admin/partials/services/rtwbmal-services-display.php:99
+#: admin/partials/services/rtwbmal-services-display.php:216
+msgid "Add New Service"
+msgstr ""
+
+#: admin/partials/services/rtwbmal-services-display.php:109
+msgid "Total"
+msgstr ""
+
+#: admin/partials/services/rtwbmal-services-display.php:141
+msgid " "
+msgstr ""
+
+#: admin/partials/services/rtwbmal-services-display.php:147
+#: admin/partials/services/rtwbmal-services-display.php:276
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1705
+msgid "Active"
+msgstr ""
+
+#: admin/partials/services/rtwbmal-services-display.php:150
+#: admin/partials/services/rtwbmal-services-display.php:277
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1708
+msgid "Inactive"
+msgstr ""
+
+#: admin/partials/services/rtwbmal-services-display.php:191
+msgid "Enter Category Name"
+msgstr ""
+
+#: admin/partials/services/rtwbmal-services-display.php:255
+msgid "Enter Service Title"
+msgstr ""
+
+#: admin/partials/services/rtwbmal-services-display.php:265
+msgid "Enter Price"
+msgstr ""
+
+#: admin/partials/services/rtwbmal-services-display.php:275
+msgid "Select Status"
+msgstr ""
+
+#: admin/partials/services/rtwbmal-services-display.php:285
+#: admin/partials/services/rtwbmal-services-display.php:288
+msgid "Select Category"
+msgstr ""
+
+#: admin/partials/services/rtwbmal-services-display.php:305
+msgid "Select Color"
+msgstr ""
+
+#: admin/partials/services/rtwbmal-services-display.php:315
+msgid "Time Duration"
+msgstr ""
+
+#: admin/partials/services/rtwbmal-services-display.php:334
+msgid "Buffer Time"
+msgstr ""
+
+#: admin/partials/services/rtwbmal-services-display.php:337
+msgid "Time Gap"
+msgstr ""
+
+#: admin/partials/services/rtwbmal-services-display.php:353
+msgid "Min Capacity"
+msgstr ""
+
+#: admin/partials/services/rtwbmal-services-display.php:356
+#: admin/partials/services/rtwbmal-services-display.php:366
+msgid "Min"
+msgstr ""
+
+#: admin/partials/services/rtwbmal-services-display.php:363
+msgid "Max Capacity"
+msgstr ""
+
+#: admin/partials/services/rtwbmal-services-display.php:376
+msgid "Enter location Address"
+msgstr ""
+
+#: admin/partials/services/rtwbmal-services-display.php:386
+msgid "Enter location Description"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:71
+#: public/partials/template/rtwbmal-template-public.php:102
+msgid "UAE dirham"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:72
+#: public/partials/template/rtwbmal-template-public.php:103
+msgid "Afghan afghani"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:73
+#: public/partials/template/rtwbmal-template-public.php:104
+msgid "Albanian lek"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:74
+#: public/partials/template/rtwbmal-template-public.php:105
+msgid "Armenian dram"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:75
+#: public/partials/template/rtwbmal-template-public.php:106
+msgid "Netherlands Antillean guilder"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:76
+#: public/partials/template/rtwbmal-template-public.php:107
+msgid "Angolan kwanza"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:77
+#: public/partials/template/rtwbmal-template-public.php:108
+msgid "Argentine peso"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:78
+#: public/partials/template/rtwbmal-template-public.php:109
+msgid "Australian dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:79
+#: public/partials/template/rtwbmal-template-public.php:110
+msgid "Aruban florin"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:80
+#: public/partials/template/rtwbmal-template-public.php:111
+msgid "Azerbaijani manat"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:81
+#: public/partials/template/rtwbmal-template-public.php:112
+msgid "B&H convertible mark"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:82
+#: public/partials/template/rtwbmal-template-public.php:113
+msgid "Barbadian dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:83
+#: public/partials/template/rtwbmal-template-public.php:114
+msgid "Bangladeshi taka"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:84
+#: public/partials/template/rtwbmal-template-public.php:115
+msgid "Bulgarian lev"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:85
+#: public/partials/template/rtwbmal-template-public.php:116
+msgid "Bahraini dinar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:86
+#: public/partials/template/rtwbmal-template-public.php:117
+msgid "Burundian franc"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:87
+#: public/partials/template/rtwbmal-template-public.php:118
+msgid "Bermudian dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:88
+#: public/partials/template/rtwbmal-template-public.php:119
+msgid "Brunei dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:89
+#: public/partials/template/rtwbmal-template-public.php:120
+msgid "Bolivian boliviano"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:90
+#: public/partials/template/rtwbmal-template-public.php:121
+msgid "Brazilian real"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:91
+#: public/partials/template/rtwbmal-template-public.php:122
+msgid "Bahamian dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:92
+#: public/partials/template/rtwbmal-template-public.php:123
+msgid "Bitcoin"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:93
+#: public/partials/template/rtwbmal-template-public.php:124
+msgid "Bhutanese ngultrum"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:94
+#: public/partials/template/rtwbmal-template-public.php:125
+msgid "Botswana pula"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:95
+#: public/partials/template/rtwbmal-template-public.php:126
+msgid "Belarusian ruble (old)"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:96
+#: public/partials/template/rtwbmal-template-public.php:127
+msgid "Belarusian ruble"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:97
+#: public/partials/template/rtwbmal-template-public.php:128
+msgid "Belize dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:98
+#: public/partials/template/rtwbmal-template-public.php:129
+msgid "Canadian dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:99
+#: public/partials/template/rtwbmal-template-public.php:130
+msgid "Congolese franc"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:100
+#: public/partials/template/rtwbmal-template-public.php:131
+msgid "Swiss franc"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:101
+#: public/partials/template/rtwbmal-template-public.php:132
+msgid "Chilean peso"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:102
+#: admin/partials/settings/rtwbmal-settings-display.php:190
+#: public/partials/template/rtwbmal-template-public.php:133
+#: public/partials/template/rtwbmal-template-public.php:221
+msgid "Chinese yuan"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:103
+#: public/partials/template/rtwbmal-template-public.php:134
+msgid "Colombian peso"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:104
+#: public/partials/template/rtwbmal-template-public.php:135
+msgid "Costa Rican col&oacute;n"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:105
+#: public/partials/template/rtwbmal-template-public.php:136
+msgid "Cuban convertible peso"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:106
+#: public/partials/template/rtwbmal-template-public.php:137
+msgid "Cuban peso"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:107
+#: public/partials/template/rtwbmal-template-public.php:138
+msgid "Cape Verdean escudo"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:108
+#: public/partials/template/rtwbmal-template-public.php:139
+msgid "Czech koruna"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:109
+#: public/partials/template/rtwbmal-template-public.php:140
+msgid "Djiboutian franc"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:110
+#: public/partials/template/rtwbmal-template-public.php:141
+msgid "Danish krone"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:111
+#: public/partials/template/rtwbmal-template-public.php:142
+msgid "Dominican peso"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:112
+#: public/partials/template/rtwbmal-template-public.php:143
+msgid "Algerian dinar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:113
+#: public/partials/template/rtwbmal-template-public.php:144
+msgid "Egyptian pound"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:114
+#: public/partials/template/rtwbmal-template-public.php:145
+msgid "Eritrean nakfa"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:115
+#: public/partials/template/rtwbmal-template-public.php:146
+msgid "Ethiopian birr"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:116
+#: public/partials/template/rtwbmal-template-public.php:147
+msgid "Euro"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:117
+#: public/partials/template/rtwbmal-template-public.php:148
+msgid "Fijian dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:118
+#: public/partials/template/rtwbmal-template-public.php:149
+msgid "Falkland Islands pound"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:119
+#: public/partials/template/rtwbmal-template-public.php:150
+msgid "Pound sterling"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:120
+#: public/partials/template/rtwbmal-template-public.php:151
+msgid "Georgian lari"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:121
+#: public/partials/template/rtwbmal-template-public.php:152
+msgid "Guernsey pound"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:122
+#: public/partials/template/rtwbmal-template-public.php:153
+msgid "Ghana cedi"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:123
+#: public/partials/template/rtwbmal-template-public.php:154
+msgid "Gibraltar pound"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:124
+#: public/partials/template/rtwbmal-template-public.php:155
+msgid "Gambian dalasi"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:125
+#: public/partials/template/rtwbmal-template-public.php:156
+msgid "Guinean franc"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:126
+#: public/partials/template/rtwbmal-template-public.php:157
+msgid "Guatemalan quetzal"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:127
+#: public/partials/template/rtwbmal-template-public.php:158
+msgid "Guyanese dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:128
+#: public/partials/template/rtwbmal-template-public.php:159
+msgid "Hong Kong dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:129
+#: public/partials/template/rtwbmal-template-public.php:160
+msgid "Honduran lempira"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:130
+#: public/partials/template/rtwbmal-template-public.php:161
+msgid "Croatian kuna"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:131
+#: public/partials/template/rtwbmal-template-public.php:162
+msgid "Haitian gourde"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:132
+#: public/partials/template/rtwbmal-template-public.php:163
+msgid "Hungarian forint"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:133
+#: public/partials/template/rtwbmal-template-public.php:164
+msgid "Indonesian rupiah"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:134
+#: public/partials/template/rtwbmal-template-public.php:165
+msgid "Israeli new shekel"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:135
+#: public/partials/template/rtwbmal-template-public.php:166
+msgid "Manx pound"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:136
+#: public/partials/template/rtwbmal-template-public.php:167
+msgid "Indian rupee"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:137
+#: public/partials/template/rtwbmal-template-public.php:168
+msgid "Iraqi dinar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:138
+#: public/partials/template/rtwbmal-template-public.php:169
+msgid "Iranian rial"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:139
+#: public/partials/template/rtwbmal-template-public.php:170
+msgid "Iranian toman"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:140
+#: public/partials/template/rtwbmal-template-public.php:171
+msgid "Icelandic kr&oacute;na"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:141
+#: public/partials/template/rtwbmal-template-public.php:172
+msgid "Jersey pound"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:142
+#: public/partials/template/rtwbmal-template-public.php:173
+msgid "Jamaican dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:143
+#: public/partials/template/rtwbmal-template-public.php:174
+msgid "Jordanian dinar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:144
+#: public/partials/template/rtwbmal-template-public.php:175
+msgid "Japanese yen"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:145
+#: public/partials/template/rtwbmal-template-public.php:176
+msgid "Kenyan shilling"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:146
+#: public/partials/template/rtwbmal-template-public.php:177
+msgid "Kyrgyzstani som"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:147
+#: public/partials/template/rtwbmal-template-public.php:178
+msgid "Cambodian riel"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:148
+#: public/partials/template/rtwbmal-template-public.php:179
+msgid "Comorian franc"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:149
+#: public/partials/template/rtwbmal-template-public.php:180
+msgid "North Korean won"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:150
+#: public/partials/template/rtwbmal-template-public.php:181
+msgid "South Korean won"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:151
+#: public/partials/template/rtwbmal-template-public.php:182
+msgid "Kuwaiti dinar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:152
+#: public/partials/template/rtwbmal-template-public.php:183
+msgid "Cayman Islands dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:153
+#: public/partials/template/rtwbmal-template-public.php:184
+msgid "Kazakhstani tenge"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:154
+#: public/partials/template/rtwbmal-template-public.php:185
+msgid "Lao kip"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:155
+#: public/partials/template/rtwbmal-template-public.php:186
+msgid "Lebanese pound"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:156
+#: public/partials/template/rtwbmal-template-public.php:187
+msgid "Sri Lankan rupee"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:157
+#: public/partials/template/rtwbmal-template-public.php:188
+msgid "Liberian dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:158
+#: public/partials/template/rtwbmal-template-public.php:189
+msgid "Lesotho loti"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:159
+#: public/partials/template/rtwbmal-template-public.php:190
+msgid "Libyan dinar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:160
+#: public/partials/template/rtwbmal-template-public.php:191
+msgid "Moroccan dirham"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:161
+#: public/partials/template/rtwbmal-template-public.php:192
+msgid "Moldovan leu"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:162
+#: public/partials/template/rtwbmal-template-public.php:193
+msgid "Malagasy ariary"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:163
+#: public/partials/template/rtwbmal-template-public.php:194
+msgid "Macedonian denar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:164
+#: public/partials/template/rtwbmal-template-public.php:195
+msgid "Burmese kyat"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:165
+#: public/partials/template/rtwbmal-template-public.php:196
+msgid "Mongolian t&ouml;gr&ouml;g"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:166
+#: public/partials/template/rtwbmal-template-public.php:197
+msgid "Macanese pataca"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:167
+#: public/partials/template/rtwbmal-template-public.php:198
+msgid "Mauritanian ouguiya"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:168
+#: public/partials/template/rtwbmal-template-public.php:199
+msgid "Mauritian rupee"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:169
+#: public/partials/template/rtwbmal-template-public.php:200
+msgid "Maldivian rufiyaa"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:170
+#: public/partials/template/rtwbmal-template-public.php:201
+msgid "Malawian kwacha"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:171
+#: public/partials/template/rtwbmal-template-public.php:202
+msgid "Mexican peso"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:172
+#: public/partials/template/rtwbmal-template-public.php:203
+msgid "Malaysian ringgit"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:173
+#: public/partials/template/rtwbmal-template-public.php:204
+msgid "Mozambican metical"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:174
+#: public/partials/template/rtwbmal-template-public.php:205
+msgid "Namibian dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:175
+#: public/partials/template/rtwbmal-template-public.php:206
+msgid "Nigerian naira"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:176
+#: public/partials/template/rtwbmal-template-public.php:207
+msgid "Nicaraguan c&oacute;rdoba"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:177
+#: public/partials/template/rtwbmal-template-public.php:208
+msgid "Norwegian krone"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:178
+#: public/partials/template/rtwbmal-template-public.php:209
+msgid "Nepalese rupee"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:179
+#: public/partials/template/rtwbmal-template-public.php:210
+msgid "New Zealand dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:180
+#: public/partials/template/rtwbmal-template-public.php:211
+msgid "Omani rial"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:181
+#: public/partials/template/rtwbmal-template-public.php:212
+msgid "Panamanian balboa"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:182
+#: public/partials/template/rtwbmal-template-public.php:213
+msgid "Peruvian nuevo sol"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:183
+#: public/partials/template/rtwbmal-template-public.php:214
+msgid "Papua New Guinean kina"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:184
+#: public/partials/template/rtwbmal-template-public.php:215
+msgid "Philippine peso"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:185
+#: public/partials/template/rtwbmal-template-public.php:216
+msgid "Pakistani rupee"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:186
+#: public/partials/template/rtwbmal-template-public.php:217
+msgid "Polish z&#x142;oty"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:187
+#: public/partials/template/rtwbmal-template-public.php:218
+msgid "Transnistrian ruble"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:188
+#: public/partials/template/rtwbmal-template-public.php:219
+msgid "Paraguayan guaran&iacute;"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:189
+#: public/partials/template/rtwbmal-template-public.php:220
+msgid "Qatari riyal"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:191
+#: public/partials/template/rtwbmal-template-public.php:222
+msgid "Romanian leu"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:192
+#: public/partials/template/rtwbmal-template-public.php:223
+msgid "Serbian dinar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:193
+#: public/partials/template/rtwbmal-template-public.php:224
+msgid "Russian ruble"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:194
+#: public/partials/template/rtwbmal-template-public.php:225
+msgid "Rwandan franc"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:195
+#: public/partials/template/rtwbmal-template-public.php:226
+msgid "Saudi riyal"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:196
+#: public/partials/template/rtwbmal-template-public.php:227
+msgid "Solomon Islands dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:197
+#: public/partials/template/rtwbmal-template-public.php:228
+msgid "Seychellois rupee"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:198
+#: public/partials/template/rtwbmal-template-public.php:229
+msgid "Sudanese pound"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:199
+#: public/partials/template/rtwbmal-template-public.php:230
+msgid "Swedish krona"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:200
+#: public/partials/template/rtwbmal-template-public.php:231
+msgid "Singapore dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:201
+#: public/partials/template/rtwbmal-template-public.php:232
+msgid "Saint Helena pound"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:202
+#: public/partials/template/rtwbmal-template-public.php:233
+msgid "Sierra Leonean leone"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:203
+#: public/partials/template/rtwbmal-template-public.php:234
+msgid "Somali shilling"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:204
+#: public/partials/template/rtwbmal-template-public.php:235
+msgid "Surinamese dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:205
+#: public/partials/template/rtwbmal-template-public.php:236
+msgid "South Sudanese pound"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:206
+#: public/partials/template/rtwbmal-template-public.php:237
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe dobra"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:207
+#: public/partials/template/rtwbmal-template-public.php:238
+msgid "Syrian pound"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:208
+#: public/partials/template/rtwbmal-template-public.php:239
+msgid "Swazi lilangeni"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:209
+#: public/partials/template/rtwbmal-template-public.php:240
+msgid "Thai baht"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:210
+#: public/partials/template/rtwbmal-template-public.php:241
+msgid "Tajikistani somoni"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:211
+#: public/partials/template/rtwbmal-template-public.php:242
+msgid "Turkmenistan manat"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:212
+#: public/partials/template/rtwbmal-template-public.php:243
+msgid "Tunisian dinar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:213
+#: public/partials/template/rtwbmal-template-public.php:244
+msgid "Tongan pa&#x2bb;anga"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:214
+#: public/partials/template/rtwbmal-template-public.php:245
+msgid "Turkish lira"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:215
+#: public/partials/template/rtwbmal-template-public.php:246
+msgid "Trinidad and Tobago dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:216
+#: public/partials/template/rtwbmal-template-public.php:247
+msgid "New Taiwan dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:217
+#: public/partials/template/rtwbmal-template-public.php:248
+msgid "Tanzanian shilling"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:218
+#: public/partials/template/rtwbmal-template-public.php:249
+msgid "Ukrainian hryvnia"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:219
+#: public/partials/template/rtwbmal-template-public.php:250
+msgid "Ugandan shilling"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:220
+#: public/partials/template/rtwbmal-template-public.php:251
+msgid "United States (US) dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:221
+#: public/partials/template/rtwbmal-template-public.php:252
+msgid "Uruguayan peso"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:222
+#: public/partials/template/rtwbmal-template-public.php:253
+msgid "Uzbekistani som"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:223
+#: public/partials/template/rtwbmal-template-public.php:254
+msgid "Venezuelan bol&iacute;var"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:224
+#: public/partials/template/rtwbmal-template-public.php:255
+msgid "Vietnamese &#x111;&#x1ed3;ng"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:225
+#: public/partials/template/rtwbmal-template-public.php:256
+msgid "Vanuatu vatu"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:226
+#: public/partials/template/rtwbmal-template-public.php:257
+msgid "Samoan t&#x101;l&#x101;"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:227
+#: public/partials/template/rtwbmal-template-public.php:258
+msgid "Central African CFA franc"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:228
+#: public/partials/template/rtwbmal-template-public.php:259
+msgid "East Caribbean dollar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:229
+#: public/partials/template/rtwbmal-template-public.php:260
+msgid "West African CFA franc"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:230
+#: public/partials/template/rtwbmal-template-public.php:261
+msgid "CFP franc"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:231
+#: public/partials/template/rtwbmal-template-public.php:262
+msgid "Yemeni rial"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:232
+#: public/partials/template/rtwbmal-template-public.php:263
+msgid "South African rand"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:233
+#: public/partials/template/rtwbmal-template-public.php:264
+msgid "Zambian kwacha"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:285
+#: admin/rtwbmal-class-book-my-appointment-admin.php:413
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:295
+#: admin/partials/settings/rtwbmal-settings-display.php:338
+msgid "General"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:298
+#: admin/partials/settings/rtwbmal-settings-display.php:439
+msgid "Company"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:304
+#: admin/partials/settings/rtwbmal-settings-display.php:551
+msgid "Business Hours"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:307
+#: admin/partials/settings/rtwbmal-settings-display.php:598
+msgid "Holidays"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:313
+msgid "Payment Gateways"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:316
+msgid "Google Calendar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:343
+msgid "Date Format"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:357
+msgid "Time Format"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:369
+msgid "Minimum Time to Cancel Booking"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:385
+msgid "Time Interval"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:402
+msgid "Default Appointment Status"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:413
+msgid "Appointments per page"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:421
+msgid "Employees per page"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:429
+msgid "Customers per page"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:470
+msgid "Website"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:493
+msgid "Payment per page"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:501
+msgid "Currency Format"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:516
+msgid "  "
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:523
+msgid "Currency Position"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:527
+msgid "Left"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:528
+msgid "Left-Space"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:529
+msgid "Right"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:530
+msgid "Right-Space"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:536
+msgid "Price Decimal"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:547
+#: admin/rtwbmal-class-book-my-appointment-admin.php:403
+msgid "Calendar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:618
+msgid "Repeat Every Year"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:640
+msgid "Mail Serivce"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:644
+msgid "PHP Mail"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:645
+msgid "WP Mail"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:651
+msgid "Sender Name"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:659
+msgid "Sender Email"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:674
+msgid "Paypal"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:680
+msgid "PayPal Setting"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:685
+msgid "Enable Paypal"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:692
+msgid "Enable/Disable PayPal Payment Gateway."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:702
+msgid "This title will be displayed for PayPal."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:712
+msgid "This controls the description which the user sees during booking."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:718
+msgid "PayPal Email"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:722
+msgid "Please enter your PayPal email address; this is needed in order to take payment."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:728
+msgid "PayPal Sandbox"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:734
+msgid "PayPal sandbox can be used to test payments. Sign up for a "
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:735
+msgid "developer account."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:742
+msgid "Debug Log"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:748
+msgid "Log PayPal events, such as IPN requests"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:754
+msgid "Enable IPN Notification"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:760
+msgid "Send notifications when an IPN is received from PayPal indicating refunds, chargebacks and cancellations."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:766
+msgid "Receiver Email"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:770
+msgid "If your main PayPal email differs from the PayPal email entered above, input your main receiver email for your PayPal account here. This is used to validate IPN requests."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:776
+msgid "PayPal identity token "
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:780
+msgid "Optionally enable \"Payment Data Transfer\" (Profile > Profile and Settings > My Selling Tools > Website Preferences) and then copy your identity token here. This will allow payments to be verified without the need for PayPal IPN."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:786
+msgid "Invoice prefix"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:790
+msgid "Please enter a prefix for your invoice numbers. If you use your PayPal account for multiple stores ensure this prefix is unique as PayPal will not allow orders with the same invoice number."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:796
+msgid "Payment Action"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:800
+msgid "Capture"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:801
+msgid "Authorize"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:803
+msgid "Choose whether you wish to capture funds immediately or authorize payment only."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:809
+msgid "Image Url"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:814
+msgid "Optionally enter the URL to a 150x50px image displayed as your logo in the upper left corner of the PayPal checkout pages."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:822
+msgid "Live API Credentials"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:824
+#: admin/partials/settings/rtwbmal-settings-display.php:869
+msgid "Enter your PayPal API credentials to process refunds via PayPal. Learn how to access your "
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:825
+#: admin/partials/settings/rtwbmal-settings-display.php:870
+msgid "PayPal API Credentials."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:832
+msgid "API Username"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:837
+#: admin/partials/settings/rtwbmal-settings-display.php:848
+#: admin/partials/settings/rtwbmal-settings-display.php:859
+#: admin/partials/settings/rtwbmal-settings-display.php:882
+#: admin/partials/settings/rtwbmal-settings-display.php:893
+#: admin/partials/settings/rtwbmal-settings-display.php:904
+msgid "Get your API credentials from PayPal."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:843
+msgid "API Password"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:854
+msgid "API Signature"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:867
+msgid "Sandbox API Credentials"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:877
+msgid "Sandbox API Username"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:888
+msgid "Sandbox API Password"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:899
+msgid "Sandbox API Signature"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:914
+msgid "Stripe Setting"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:920
+msgid "Enable Stripe"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:927
+msgid "Enable/Disable stripe Payment Gateway."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:937
+msgid "This title will be displayed for Stripe."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:943
+msgid "Test Mode Stripe"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:949
+msgid "stripe test mode can be used to test payments. See Instructions "
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:950
+msgid "Testing Stripe"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:957
+msgid "Statement Descriptor "
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:961
+msgid "Statement descriptors are limited to 22 characters, cannot use the special characters >, <, \", \\, , *, and must not consist solely of numbers. This will appear on your customer's statement in capital letters."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:967
+msgid "Capture charge immediately"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:974
+msgid "Whether or not to immediately capture the charge. When unchecked, the charge issues an authorization and will need to be captured later. Uncaptured charges expire in 7 days."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:980
+msgid "Logging"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:987
+msgid "Save debug messages to the WooCommerce System Status log."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:994
+msgid "Live Stripe Credentials"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:999
+msgid "Live Publishable Key"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:1004
+#: admin/partials/settings/rtwbmal-settings-display.php:1015
+#: admin/partials/settings/rtwbmal-settings-display.php:1044
+msgid "Get your API keys from your stripe account."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:1010
+msgid "Live Secret Key"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:1021
+msgid "Live Webhook Secret"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:1026
+#: admin/partials/settings/rtwbmal-settings-display.php:1055
+#: admin/partials/settings/rtwbmal-settings-display.php:1066
+msgid "Get your webhook signing secret from the webhooks section in your stripe account."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:1034
+msgid "Testing Stripe Credentials"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:1039
+msgid "Test Publishable Key:"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:1050
+#: admin/partials/settings/rtwbmal-settings-display.php:1061
+msgid "Test Secret Key:"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:1080
+msgid "Google Calendar Settings"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:1086
+msgid "Enable Google Calendar"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:1094
+msgid "Client ID"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:1098
+msgid "Know how to obtain Google Client ID."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:1108
+msgid "Client Secret"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:1112
+msgid "Know how to obtain Google Client Secret."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:1122
+msgid "Redirect URL"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:1126
+msgid "This is the path in your application that users are redirected to after they have authenticated with Google. Add this URI in your Google project credentials under \"Authorized redirect URIs\"."
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:1136
+msgid "Event Title"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:1144
+msgid "Event Description"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:1152
+msgid "Add Event's Attendees"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:1160
+msgid "Add Event's Invitation Mail"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:1168
+msgid "Maximum Event Returns"
+msgstr ""
+
+#: admin/partials/settings/rtwbmal-settings-display.php:1180
+msgid "Authenticate"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:46
+msgid "Sender's Details"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:50
+msgid "Twillio"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:61
+msgid "SMS Notifications is a service for notifying your customers via text messages which are sent to mobile phones."
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:64
+msgid "It is necessary to register in "
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:64
+msgid " for using this service."
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:67
+msgid "After registration you will need to configure notification messages and top up your balance in order to start sending SMS."
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:70
+msgid "You can "
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:70
+msgid "Sign Up"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:71
+msgid "here."
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:77
+msgid "Use Twilio"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:85
+msgid "Twilio Account SID"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:91
+msgid "Twilio Auth Token"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:97
+msgid "Twilio Number"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:116
+msgid "Parameter"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:117
+msgid "Type"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:122
+msgid "route"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:123
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:128
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:132
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:155
+msgid "string"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:124
+msgid "If your operator supports multiple routes then give one route name. Eg: route=1 for promotional, route=4 for transactional SMS."
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:127
+msgid "sender"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:128
+msgid "Receiver will see this as sender's ID"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:131
+msgid "message"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:132
+msgid "Message content to send"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:135
+msgid "country"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:136
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:150
+msgid "number"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:137
+msgid "0 for international,1 for USA, 91 for India."
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:140
+msgid "flash"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:141
+msgid "For sending flash message pass 1 else 0"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:144
+msgid "unicode"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:146
+msgid "For message other than english pass 1"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:149
+msgid "mobiles"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:151
+msgid "Enter mobile number with country code, Don't include '+'"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:154
+msgid "authkey"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:156
+msgid "In MSG91 panel in API section you will get authkey"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:166
+msgid "Use MSG91"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:174
+msgid "Method"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:178
+msgid "GET"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:179
+msgid "POST"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:187
+msgid "GET Url : "
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:193
+msgid "POST Url : "
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:199
+msgid "Route"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:205
+msgid "Sender"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:217
+msgid "Auth Key"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:223
+msgid "Use "
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:223
+msgid "in the URL to replace values."
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:234
+#: admin/rtwbmal-class-book-my-appointment-admin.php:409
+msgid "SMS Notifications"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:279
+msgid "Add Subject"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:289
+msgid "Add Message"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:292
+msgid "Add a Message"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:330
+msgid "Receivers"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:333
+msgid "Select Receivers to get notifications"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:334
+msgid "Admin"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:351
+msgid "Code"
+msgstr ""
+
+#: admin/partials/sms_notifications/rtwbmal-sms_notifications-display.php:352
+msgid "Detail"
+msgstr ""
+
+#: admin/partials/status/rtwbmal-status-display.php:3
+msgid "Paypal Logs"
+msgstr ""
+
+#: admin/partials/status/rtwbmal-status-display.php:7
+msgid "Clear Log"
+msgstr ""
+
+#: admin/partials/template/rtwbmal-template-display.php:29
+msgid "Select Template for Desktop"
+msgstr ""
+
+#: admin/partials/template/rtwbmal-template-display.php:47
+msgid "Select Template for Tablet"
+msgstr ""
+
+#: admin/partials/template/rtwbmal-template-display.php:65
+msgid "Select Template for Mobile"
+msgstr ""
+
+#: admin/partials/template/rtwbmal-template-display.php:85
+msgid "For Login/Register Page"
+msgstr ""
+
+#: admin/partials/template/rtwbmal-template-display.php:90
+msgid "Choose Template"
+msgstr ""
+
+#: admin/partials/template/rtwbmal-template-display.php:94
+msgid "Template 1"
+msgstr ""
+
+#: admin/partials/template/rtwbmal-template-display.php:95
+msgid "Template 2"
+msgstr ""
+
+#: admin/partials/template/rtwbmal-template-display.php:96
+msgid "Template 3"
+msgstr ""
+
+#: admin/partials/template/rtwbmal-template-display.php:97
+msgid "Template 4"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:275
+#: public/rtwbmal-class-book-my-appointment-public.php:132
+msgid "Required"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:276
+#: public/rtwbmal-class-book-my-appointment-public.php:138
+msgid "Are You Sure?"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:278
+msgid "Enter Client ID"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:279
+msgid "Enter Client Secret"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:280
+msgid "Enter Redirect Url"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:405
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:271
+msgid "Profile"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:408
+msgid "Email Notifications"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:418
+msgid "Pro Features"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:419
+msgid "Forms"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:420
+msgid "Custom Css"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:745
+msgid "Location Added"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:748
+#: admin/rtwbmal-class-book-my-appointment-admin.php:818
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1076
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1326
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1401
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1528
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1988
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2060
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2184
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2191
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2327
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2834
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2906
+msgid "Something Went Wrong"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:814
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1322
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1433
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1576
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2056
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2903
+msgid "Updated"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:845
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1358
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1461
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1611
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2081
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2364
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2932
+msgid "Deleted"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:849
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1362
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1437
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1465
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1580
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1615
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2085
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2369
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2936
+msgid "Something went wrong. Try again"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:916
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1948
+#: public/rtwbmal-class-book-my-appointment-public.php:390
+msgid "Please Enter Correct Email."
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1073
+msgid "Employee Added"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1083
+msgid "Maximum number of employees added."
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1397
+msgid "Category Added"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1408
+msgid "Maximum number of categories added"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1525
+msgid "Service Added"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1535
+msgid "Maximum number of services added"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:1985
+msgid "Customer Added"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2188
+msgid "Added"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2198
+msgid "Maximum number of appointment achieved"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2323
+msgid "Appointment Updated"
+msgstr ""
+
+#: admin/rtwbmal-class-book-my-appointment-admin.php:2831
+msgid "Email Added"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:52
+msgid "Login your Account"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:58
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:106
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:149
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:150
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:200
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:201
+msgid "Username or Email Address"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:60
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:107
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:151
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:152
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:202
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:203
+msgid "Password"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:63
+msgid "Referral Code"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:65
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:109
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:142
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:153
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:195
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:204
+msgid "Login"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:102
+msgid "Login Form"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:378
+msgid "Birthday"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:382
+msgid "Select Month"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:400
+msgid "Select Day"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:416
+msgid "Select Year"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:432
+msgid "Update Profile"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:460
+msgid "Staff Details"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:461
+msgid "Staff Services"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:468
+msgid "Full name"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:483
+msgid "Info"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:487
+msgid "Visibility"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:488
+msgid "If you want to become invisible to your customers set the visibility to \"Private\". "
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:489
+msgid "Public"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:490
+msgid "Private"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_login_page.php:549
+msgid "Select Locations"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_register_page.php:47
+msgid "Register your Account"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_register_page.php:53
+#: public/partials/shortcodes/rtwbmal_cus_register_page.php:96
+#: public/partials/shortcodes/rtwbmal_cus_register_page.php:136
+#: public/partials/shortcodes/rtwbmal_cus_register_page.php:137
+#: public/partials/shortcodes/rtwbmal_cus_register_page.php:189
+#: public/partials/shortcodes/rtwbmal_cus_register_page.php:190
+msgid "Username"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_register_page.php:55
+#: public/partials/shortcodes/rtwbmal_cus_register_page.php:97
+#: public/partials/shortcodes/rtwbmal_cus_register_page.php:138
+#: public/partials/shortcodes/rtwbmal_cus_register_page.php:139
+#: public/partials/shortcodes/rtwbmal_cus_register_page.php:191
+#: public/partials/shortcodes/rtwbmal_cus_register_page.php:192
+msgid "E-Mail"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_register_page.php:58
+#: public/partials/shortcodes/rtwbmal_cus_register_page.php:99
+#: public/partials/shortcodes/rtwbmal_cus_register_page.php:142
+#: public/partials/shortcodes/rtwbmal_cus_register_page.php:195
+msgid "Register"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_register_page.php:92
+msgid "Registration Form"
+msgstr ""
+
+#: public/partials/shortcodes/rtwbmal_cus_register_page.php:129
+#: public/partials/shortcodes/rtwbmal_cus_register_page.php:185
+msgid "Registration"
+msgstr ""
+
+#: public/partials/template/rtwbmal-template-public.php:10
+msgid "Confirm Cancel"
+msgstr ""
+
+#: public/partials/template/rtwbmal-template-public.php:12
+msgid "Yes"
+msgstr ""
+
+#: public/partials/template/rtwbmal-template-public.php:16
+msgid "No"
+msgstr ""
+
+#: public/partials/template/rtwbmal-template-public.php:20
+msgid "Cancellation Reason"
+msgstr ""
+
+#: public/partials/template/rtwbmal-template-public.php:44
+#: public/rtwbmal-class-book-my-appointment-public.php:147
+msgid "Success!"
+msgstr ""
+
+#: public/partials/template/rtwbmal-template-public.php:45
+msgid "Booking Successful"
+msgstr ""
+
+#: public/partials/template/rtwbmal-template-public.php:48
+#: public/partials/template/rtwbmal-template-public.php:71
+msgid "Back To Services"
+msgstr ""
+
+#: public/partials/template/rtwbmal-template-public.php:67
+msgid "Failed!"
+msgstr ""
+
+#: public/partials/template/rtwbmal-template-public.php:68
+msgid "Booking failed"
+msgstr ""
+
+#: public/partials/template/rtwbmal-template-public.php:87
+msgid "Booking Cancelled."
+msgstr ""
+
+#: public/partials/template/templates/rtwbmal-template-first.php:40
+#: public/partials/template/templates/rtwbmal-template-first.php:77
+#: public/partials/template/templates/rtwbmal-template-first.php:124
+#: public/rtwbmal-class-book-my-appointment-public.php:236
+msgid "Next"
+msgstr ""
+
+#: public/partials/template/templates/rtwbmal-template-first.php:76
+#: public/partials/template/templates/rtwbmal-template-first.php:123
+#: public/partials/template/templates/rtwbmal-template-first.php:144
+#: public/rtwbmal-class-book-my-appointment-public.php:235
+msgid "Prev"
+msgstr ""
+
+#: public/partials/template/templates/rtwbmal-template-first.php:147
+msgid "Confirm Booking"
+msgstr ""
+
+#: public/rtwbmal-class-book-my-appointment-public.php:133
+msgid "Enter Valid Email"
+msgstr ""
+
+#: public/rtwbmal-class-book-my-appointment-public.php:135
+msgid "Select a Specialist"
+msgstr ""
+
+#: public/rtwbmal-class-book-my-appointment-public.php:136
+msgid "Select a Date & Time"
+msgstr ""
+
+#: public/rtwbmal-class-book-my-appointment-public.php:137
+msgid "Please Select a payment method"
+msgstr ""
+
+#: public/rtwbmal-class-book-my-appointment-public.php:139
+msgid "Please select a service, specialist, date & time and fill out the customer's details to proceed."
+msgstr ""
+
+#: public/rtwbmal-class-book-my-appointment-public.php:140
+msgid "Please Enter Reason of Cancellation."
+msgstr ""
+
+#: public/rtwbmal-class-book-my-appointment-public.php:141
+msgid "Enter Customer First Name."
+msgstr ""
+
+#: public/rtwbmal-class-book-my-appointment-public.php:142
+msgid "Enter Customer Last Name."
+msgstr ""
+
+#: public/rtwbmal-class-book-my-appointment-public.php:143
+msgid "Enter Mobile Number."
+msgstr ""
+
+#: public/rtwbmal-class-book-my-appointment-public.php:144
+msgid "Enter Number of People."
+msgstr ""
+
+#: public/rtwbmal-class-book-my-appointment-public.php:145
+msgid "Select Payment Method."
+msgstr ""
+
+#: public/rtwbmal-class-book-my-appointment-public.php:146
+msgid "Back to Services"
+msgstr ""
+
+#: public/rtwbmal-class-book-my-appointment-public.php:293
+msgid "Sorry no time slots available"
+msgstr ""
+
+#: public/rtwbmal-class-book-my-appointment-public.php:494
+msgid "Appointment Added"
+msgstr ""
+
+#: public/rtwbmal-class-book-my-appointment-public.php:643
+msgid "Profile Upadted"
+msgstr ""
+
+#: public/rtwbmal-class-book-my-appointment-public.php:646
+#: public/rtwbmal-class-book-my-appointment-public.php:787
+msgid "Something went wrong."
+msgstr ""
+
+#: public/rtwbmal-class-book-my-appointment-public.php:784
+msgid "Profile Updated"
+msgstr ""

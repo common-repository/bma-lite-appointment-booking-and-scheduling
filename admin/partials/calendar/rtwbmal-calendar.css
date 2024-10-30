@@ -1,0 +1,339 @@
+.popper,.tooltip {
+    z-index: 9999;
+    background: #FFC107;
+    color: #000000;
+    width: 150px;
+    border-radius: 3px;
+    box-shadow: 0 0 2px rgba(0,0,0,0.5);
+    padding: 7px 10px;
+    text-align: center;
+  }
+  .style5 .tooltip {
+    background: #1E252B;
+    color: #FFFFFF;
+    max-width: 200px;
+    width: auto;
+    font-size: .8rem;
+    padding: .5em 1em;
+  }
+  .popper .popper__arrow,
+  .tooltip .tooltip-arrow {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    position: absolute;
+    margin: 5px;
+  }
+
+  .tooltip .tooltip-arrow,
+  .popper .popper__arrow {
+    border-color: #FFC107;
+  }
+  .style5 .tooltip .tooltip-arrow {
+    border-color: #1E252B;
+  }
+  .popper[x-placement^="top"],
+  .tooltip[x-placement^="top"] {
+    margin-bottom: 5px;
+  }
+  .popper[x-placement^="top"] .popper__arrow,
+  .tooltip[x-placement^="top"] .tooltip-arrow {
+    border-width: 5px 5px 0 5px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    bottom: -5px;
+    left: calc(50% - 5px);
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .popper[x-placement^="bottom"],
+  .tooltip[x-placement^="bottom"] {
+    margin-top: 5px;
+  }
+  .tooltip[x-placement^="bottom"] .tooltip-arrow,
+  .popper[x-placement^="bottom"] .popper__arrow {
+    border-width: 0 5px 5px 5px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    border-top-color: transparent;
+    top: -5px;
+    left: calc(50% - 5px);
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .tooltip[x-placement^="right"],
+  .popper[x-placement^="right"] {
+    margin-left: 5px;
+  }
+  .popper[x-placement^="right"] .popper__arrow,
+  .tooltip[x-placement^="right"] .tooltip-arrow {
+    border-width: 5px 5px 5px 0;
+    border-left-color: transparent;
+    border-top-color: transparent;
+    border-bottom-color: transparent;
+    left: -5px;
+    top: calc(50% - 5px);
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .popper[x-placement^="left"],
+  .tooltip[x-placement^="left"] {
+    margin-right: 5px;
+  }
+  .popper[x-placement^="left"] .popper__arrow,
+  .tooltip[x-placement^="left"] .tooltip-arrow {
+    border-width: 5px 0 5px 5px;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    right: -5px;
+    top: calc(50% - 5px);
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+
+.fc-color-container {
+  width: 10px;
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  bottom: 3px;
+  border-radius: 2px;
+}
+.fc-color-container ~ i{
+  padding-left: 20px;
+}
+
+
+
+/*******************************/
+.popup-overlay {
+  /*Hides pop-up when there is no "active" class*/
+  visibility: hidden;
+  position: absolute;
+  background: #ffffff;
+  border: 3px solid #666666;
+  width: 50%;
+  height: 50%;
+  left: 25%;
+}
+
+.popup-overlay.active {
+  /*displays pop-up when "active" class is present*/
+  visibility: visible;
+  text-align: center;
+}
+
+.popup-content {
+  /*Hides pop-up content when there is no "active" class */
+  visibility: hidden;
+}
+
+.popup-content.active {
+  /*Shows pop-up content when "active" class is present */
+  visibility: visible;
+}
+
+button {
+  display: inline-block;
+  vertical-align: middle;
+  border-radius: 30px;
+  margin: .20rem;
+  font-size: 1rem;
+  color: #666666;
+  background: #ffffff;
+  border: 1px solid #666666;
+}
+
+button:hover {
+  border: 1px solid #666666;
+  background: #666666;
+  color: #ffffff;
+}
+.rtwbmal_calendar_wrap .fc-left .fc-button-primary{
+  color: #444444;
+	background-color: #efefef;
+  border-color: #efefef;
+  text-transform: capitalize;
+  opacity: 1;
+  margin-right: 8px;
+  margin-left: 0;
+  padding: 3px 10px;
+  font-size: 14px;
+  border-radius: 3px;
+}
+.rtwbmal_calendar_wrap .fc-right .fc-button-primary {
+	color: #000000;
+	background-color: #ffffff;
+  border-color: #dddddd;
+  text-transform: capitalize;
+  padding: 3px 10px;
+  margin-left: 8px;
+  font-size: 14px;
+  border-radius: 3px;
+  position: relative;
+}
+.rtwbmal_calendar_wrap .fc-right .fc-button-primary:focus,
+.rtwbmal_calendar_wrap .fc-left .fc-button-primary:focus{
+  outline: 0;
+  box-shadow: none;
+}
+.rtwbmal_calendar_wrap .fc-right .fc-button-primary.fc-button-active{
+  background-color: #2a1a5e;
+  border-color: #2a1a5e;
+  color: #ffffff;
+}
+.rtwbmal_calendar_wrap .fc-right .fc-button-primary.fc-button-active::after {
+	content: "";
+	border-left: 6px solid transparent;
+	border-right: 6px solid transparent;
+	border-top: 6px solid #000;
+	position: absolute;
+	bottom: -6px;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.rtwbmal_calendar_wrap .fc-row.fc-widget-header th {
+	padding: 20px 10px;
+  background-color: #efefef;
+  font-size: 16px;
+  font-weight: 700;
+}
+.rtwbmal_calendar_wrap .fc-row.fc-widget-header th a{
+  text-decoration: none;
+  color: #444444;
+}
+.rtwbmal_calendar_wrap .fc-content-skeleton td a{
+  text-decoration: none;
+  border: none;
+}
+.rtwbmal_popup_body{
+  height: 400px;
+}
+.rtwbmal_calendar{
+  width: 100%;
+}
+.rtwbmal_calendar_wrap .fc-row.fc-rigid,
+.rtwbmal_calendar_wrap .fc-scroller{
+  overflow: visible!important;
+}
+.rtwbmal_event_hover_info {
+    position: absolute;
+    width: 300px;
+    box-sizing: border-box;
+    display: none; 
+    bottom: -10px;
+    opacity: 0; 
+    left: 108%;
+    background: #ffffff;
+    color: #383556;
+    border: 1px solid #eaedf2;
+    box-shadow: 0px 0px 22px rgba(0,0,0,0.22);
+    z-index: 99999;
+}
+.rtwbmal_event_hover_info.rtwbmal_event_right_info{
+  left: auto;
+  right: 105%;
+}
+.rtwbmal_event_hover_info.rtwbmal_event_right_info::after {
+   margin-left: auto;
+   right: -13px;
+  transform: rotate(-90deg);
+}
+.rtwbmal_event_hover_info::after {
+    content: '';
+    border: 7px solid transparent;
+    border-right: 7px solid transparent;
+    display: inline-block;
+    margin-left: -14px;
+    bottom: 12px;
+    position: absolute;
+    border-top: 7px solid #ffffff;
+    transform: rotate(90deg);
+}
+.rtwbmal_cal_content:hover .rtwbmal_event_hover_info{
+    opacity: 1;
+    display: block;
+}
+.rtwbmal_calendar_wrap .fc-content-skeleton td.fc-event-container a.fc-day-grid-event {
+  margin: 2px 4px;
+  position: relative;
+  border: 1px solid #eaedf2 !important;
+  box-shadow: 0px 2px 3px rgba(0,0,0,0.03);
+  padding: 3px;
+  border-radius: 4px;
+}
+.rtwbmal_calendar_wrap .fc-content-skeleton td.fc-event-container a.fc-day-grid-event:hover {
+  z-index: 999999 !important;
+}
+.rtwbmal_calendar_wrap .fc-content-skeleton td a .fc-content {
+    overflow: unset;
+    white-space: unset;
+}
+.rtwbmal_cal_title {
+	cursor: pointer;
+}
+.rtwbmal_event_header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
+}
+.rtwbmal_event_emp {
+    color: #999999;
+}
+.rtwbmal_event_emp_title {
+    font-weight: 600;
+}
+.rtwbmal_event_body {
+    padding: 10px 15px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.rtwbmal_event_footer {
+    display: flex;
+    justify-content: space-between;
+    padding:10px 15px;
+    border-top: 1px solid #dddddd;
+    font-size: 20px;
+}
+.rtwbmal_status_holder {
+    color: #30b893;
+}
+.rtwbmal_event_edit a {
+    color: #f2a541 !important;
+}
+.rtwbmal_event_emp_img {
+    width: 50px;
+    height: 50px;
+    background-color: #ddd;
+    border-radius: 6px;
+    margin-right: 15px;
+}
+.rtwbmal_event_emp_location,
+.rtwbmal_event_time_holder {
+    color: #2a1a5e;
+}
+.rtwbmal_event_time_holder {
+    font-weight: bold;
+}
+.rtwbmal_calendar_wrap .fc-list-table tr.fc-list-item span.fc-event-dot {
+    background-color: #ef9434 !important;
+}
+.rtwbmal_calendar_wrap .fc-list-table .rtwbmal_cal_content{
+  position: relative;
+  display: inline-block;
+}
+.rtwbmal_calendar_wrap .fc-list-table .rtwbmal_cal_content .rtwbmal_cal_title{
+  color: #444444;
+  box-shadow: none;
+  text-align: left;
+  display: inline-block;
+}
+.rtwbmal_hidden{
+  display: none;
+}
